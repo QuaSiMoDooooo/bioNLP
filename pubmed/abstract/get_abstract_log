@@ -1,0 +1,136 @@
+nohup: ignoring input
+文件路径: /home/wtian/bioNLP/pubmed/abstract/pmid_sid/pmid_aa
+Traceback (most recent call last):
+  File "/home/wtian/bioNLP/pubmed/abstract/get_abstract.py", line 91, in <module>
+    processes_pool.map(get_abstract, id)
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value
+multiprocessing.pool.MaybeEncodingError: Error sending result: '<multiprocessing.pool.ExceptionWithTraceback object at 0x7f739f3c7700>'. Reason: 'TypeError("cannot pickle '_io.BufferedReader' object")'
+文件路径: /home/wtian/bioNLP/pubmed/abstract/pmid_sid/pmid_ab
+Traceback (most recent call last):
+  File "/home/wtian/bioNLP/pubmed/abstract/get_abstract.py", line 91, in <module>
+    processes_pool.map(get_abstract, id)
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value
+multiprocessing.pool.MaybeEncodingError: Error sending result: '<multiprocessing.pool.ExceptionWithTraceback object at 0x7fe3d27ed700>'. Reason: 'TypeError("cannot pickle '_io.BufferedReader' object")'
+文件路径: /home/wtian/bioNLP/pubmed/abstract/pmid_sid/pmid_ac
+Traceback (most recent call last):
+  File "/home/wtian/bioNLP/pubmed/abstract/get_abstract.py", line 91, in <module>
+    processes_pool.map(get_abstract, id)
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value
+multiprocessing.pool.MaybeEncodingError: Error sending result: '<multiprocessing.pool.ExceptionWithTraceback object at 0x7f8f542bd610>'. Reason: 'TypeError("cannot pickle '_io.BufferedReader' object")'
+文件路径: /home/wtian/bioNLP/pubmed/abstract/pmid_sid/pmid_ad
+Traceback (most recent call last):
+  File "/home/wtian/bioNLP/pubmed/abstract/get_abstract.py", line 91, in <module>
+    processes_pool.map(get_abstract, id)
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value
+multiprocessing.pool.MaybeEncodingError: Error sending result: '<multiprocessing.pool.ExceptionWithTraceback object at 0x7fb02c5ca7f0>'. Reason: 'TypeError("cannot pickle '_io.BufferedReader' object")'
+文件路径: /home/wtian/bioNLP/pubmed/abstract/pmid_sid/pmid_ae
+Traceback (most recent call last):
+  File "/home/wtian/bioNLP/pubmed/abstract/get_abstract.py", line 91, in <module>
+    processes_pool.map(get_abstract, id)
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value
+multiprocessing.pool.MaybeEncodingError: Error sending result: '<multiprocessing.pool.ExceptionWithTraceback object at 0x7f4f571e6d90>'. Reason: 'TypeError("cannot pickle '_io.BufferedReader' object")'
+文件路径: /home/wtian/bioNLP/pubmed/abstract/pmid_sid/pmid_af
+Traceback (most recent call last):
+  File "/home/wtian/bioNLP/pubmed/abstract/get_abstract.py", line 91, in <module>
+    processes_pool.map(get_abstract, id)
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value
+multiprocessing.pool.MaybeEncodingError: Error sending result: '<multiprocessing.pool.ExceptionWithTraceback object at 0x7f090a5b4700>'. Reason: 'TypeError("cannot pickle '_io.BufferedReader' object")'
+文件路径: /home/wtian/bioNLP/pubmed/abstract/pmid_sid/pmid_ag
+Traceback (most recent call last):
+  File "/home/wtian/bioNLP/pubmed/abstract/get_abstract.py", line 91, in <module>
+    processes_pool.map(get_abstract, id)
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value
+multiprocessing.pool.MaybeEncodingError: Error sending result: '<multiprocessing.pool.ExceptionWithTraceback object at 0x7f5e6f1ec700>'. Reason: 'TypeError("cannot pickle '_io.BufferedReader' object")'
+文件路径: /home/wtian/bioNLP/pubmed/abstract/pmid_sid/pmid_ah
+Traceback (most recent call last):
+  File "/home/wtian/bioNLP/pubmed/abstract/get_abstract.py", line 91, in <module>
+    processes_pool.map(get_abstract, id)
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value
+multiprocessing.pool.MaybeEncodingError: Error sending result: '<multiprocessing.pool.ExceptionWithTraceback object at 0x7f163d1fe520>'. Reason: 'TypeError("cannot pickle '_io.BufferedReader' object")'
+文件路径: /home/wtian/bioNLP/pubmed/abstract/pmid_sid/pmid_ai
+Traceback (most recent call last):
+  File "/home/wtian/bioNLP/pubmed/abstract/get_abstract.py", line 91, in <module>
+    processes_pool.map(get_abstract, id)
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value
+multiprocessing.pool.MaybeEncodingError: Error sending result: '<multiprocessing.pool.ExceptionWithTraceback object at 0x7fe6eb87b520>'. Reason: 'TypeError("cannot pickle '_io.BufferedReader' object")'
+文件路径: /home/wtian/bioNLP/pubmed/abstract/pmid_sid/pmid_aj
+Traceback (most recent call last):
+  File "/home/wtian/bioNLP/pubmed/abstract/get_abstract.py", line 91, in <module>
+    processes_pool.map(get_abstract, id)
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value
+multiprocessing.pool.MaybeEncodingError: Error sending result: '<multiprocessing.pool.ExceptionWithTraceback object at 0x7f2db69d8bb0>'. Reason: 'TypeError("cannot pickle '_io.BufferedReader' object")'
+文件路径: /home/wtian/bioNLP/pubmed/abstract/pmid_sid/pmid_ak
+Traceback (most recent call last):
+  File "/home/wtian/bioNLP/pubmed/abstract/get_abstract.py", line 91, in <module>
+    processes_pool.map(get_abstract, id)
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value
+multiprocessing.pool.MaybeEncodingError: Error sending result: '<multiprocessing.pool.ExceptionWithTraceback object at 0x7f9b40ec2d90>'. Reason: 'TypeError("cannot pickle '_io.BufferedReader' object")'
+文件路径: /home/wtian/bioNLP/pubmed/abstract/pmid_sid/pmid_al
+Traceback (most recent call last):
+  File "/home/wtian/bioNLP/pubmed/abstract/get_abstract.py", line 91, in <module>
+    processes_pool.map(get_abstract, id)
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value
+multiprocessing.pool.MaybeEncodingError: Error sending result: '<multiprocessing.pool.ExceptionWithTraceback object at 0x7f9369b00700>'. Reason: 'TypeError("cannot pickle '_io.BufferedReader' object")'
+文件路径: /home/wtian/bioNLP/pubmed/abstract/pmid_sid/pmid_am
+Traceback (most recent call last):
+  File "/home/wtian/bioNLP/pubmed/abstract/get_abstract.py", line 91, in <module>
+    processes_pool.map(get_abstract, id)
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value
+multiprocessing.pool.MaybeEncodingError: Error sending result: '<multiprocessing.pool.ExceptionWithTraceback object at 0x7f6c7fb15ac0>'. Reason: 'TypeError("cannot pickle '_io.BufferedReader' object")'
+文件路径: /home/wtian/bioNLP/pubmed/abstract/pmid_sid/pmid_an
+Traceback (most recent call last):
+  File "/home/wtian/bioNLP/pubmed/abstract/get_abstract.py", line 91, in <module>
+    processes_pool.map(get_abstract, id)
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value
+multiprocessing.pool.MaybeEncodingError: Error sending result: '<multiprocessing.pool.ExceptionWithTraceback object at 0x7f6b96886d90>'. Reason: 'TypeError("cannot pickle '_io.BufferedReader' object")'
+文件路径: /home/wtian/bioNLP/pubmed/abstract/pmid_sid/pmid_ao
+Traceback (most recent call last):
+  File "/home/wtian/bioNLP/pubmed/abstract/get_abstract.py", line 91, in <module>
+    processes_pool.map(get_abstract, id)
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 364, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/home/wtian/anaconda3/lib/python3.9/multiprocessing/pool.py", line 771, in get
+    raise self._value
+multiprocessing.pool.MaybeEncodingError: Error sending result: '<multiprocessing.pool.ExceptionWithTraceback object at 0x7f379ef45ca0>'. Reason: 'TypeError("cannot pickle '_io.BufferedReader' object")'
