@@ -1,0 +1,26 @@
+37742147|t|A Consecutive Series Study of the Frequencies, Intensities, and Natural History of Symptoms Following COVID-19 Infection in Nepali Men.
+37742147|a|BACKGROUND: In Nepal, approximately one million individuals, two-thirds men, have tested positive for COVID-19. The recovery picture from this infection is undescribed. METHODS: At one major testing institution in Kathmandu, we attempted to contact men three-four months following documentation of a positive PCR Covid test. If the men contacted consented and reported that they had not completely recovered from their Covid infection, we then sought their answers about the presence and intensities of 23 symptoms. RESULTS: Of 2043 consecutive test-positive men, we successfully contacted 1254 men/or family members. 14 men had died before our calls, and two reported having cancer or tuberculosis, providing 1238 individuals. 318 (25.7%) reported that they were unrecovered and 311 of these men were successfully interviewed. At a median of 3.5 months from diagnosis, 216 (17.4%) men reported fatigue, 153 (12.4%) pain, 134 (10.8%) difficulty remembering, 133 (10.7%) reduced physical activity, 114 (9.2%) shortness of breath, and 114 (9.2%) poor sleep. By 6 and 9 months, 108 (8.7%) and 55 (4.4%) of men respectively were still unrecovered. CONCLUSIONS: In this PCR Covid test-positive series of symptomatic men, recovery was significantly prolonged compared with other viral illnesses.
+37742147	102	110	COVID-19	Disease	MESH:C000657245
+37742147	111	120	Infection	Disease	MESH:D007239
+37742147	131	134	Men	Species	9606
+37742147	208	211	men	Species	9606
+37742147	238	246	COVID-19	Disease	MESH:C000657245
+37742147	279	288	infection	Disease	MESH:D007239
+37742147	385	388	men	Species	9606
+37742147	449	454	Covid	Disease	MESH:C000657245
+37742147	468	471	men	Species	9606
+37742147	555	570	Covid infection	Disease	MESH:C000657245
+37742147	695	698	men	Species	9606
+37742147	731	734	men	Species	9606
+37742147	757	760	men	Species	9606
+37742147	812	818	cancer	Disease	MESH:D009369
+37742147	822	834	tuberculosis	Disease	MESH:D014376
+37742147	929	932	men	Species	9606
+37742147	1018	1021	men	Species	9606
+37742147	1031	1038	fatigue	Disease	MESH:D005221
+37742147	1052	1056	pain	Disease	MESH:D010146
+37742147	1144	1163	shortness of breath	Disease	MESH:D004417
+37742147	1239	1242	men	Species	9606
+37742147	1305	1310	Covid	Disease	MESH:C000657245
+37742147	1347	1350	men	Species	9606
+

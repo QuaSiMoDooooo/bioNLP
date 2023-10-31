@@ -1,0 +1,2541 @@
+1. Sci Rep. 2023 Oct 7;13(1):16945. doi: 10.1038/s41598-023-44219-y.
+
+The impact of non-synonymous mutations on miRNA binding sites within the 
+SARS-CoV-2 NSP3 and NSP4 genes.
+
+Rad SMAH(#)(1)(2)(3), Wannigama DL(#)(4)(5)(6)(7)(8)(9)(10), Hirankarn 
+N(11)(12), McLellan AD(13).
+
+Author information:
+(1)Department of Microbiology and Immunology, University of Otago, Dunedin, New 
+Zealand. a.hoseini.rad@gmail.com.
+(2)Center of Excellence in Immunology and Immune-Mediated Diseases, 
+Chulalongkorn University, Bangkok, Thailand. a.hoseini.rad@gmail.com.
+(3)Department of Microbiology, Faculty of Medicine, Chulalongkorn University, 
+King Chulalongkorn Memorial Hospital, Thai Red Cross Society, Bangkok, Thailand. 
+a.hoseini.rad@gmail.com.
+(4)Department of Microbiology, Faculty of Medicine, Chulalongkorn University, 
+King Chulalongkorn Memorial Hospital, Thai Red Cross Society, Bangkok, Thailand.
+(5)Department of Infectious Diseases and Infection Control, Yamagata Prefectural 
+Central Hospital, Yamagata, Japan.
+(6)Center of Excellence in Antimicrobial Resistance and Stewardship Research, 
+Faculty of Medicine, Chulalongkorn University, Bangkok, Thailand.
+(7)School of Medicine, Faculty of Health and Medical Sciences, The University of 
+Western Australia, Nedlands, WA, Australia.
+(8)Biofilms and Antimicrobial Resistance Consortium of ODA Receiving Countries, 
+The University of Sheffield, Sheffield, UK.
+(9)Pathogen Hunter's Research Team, Department of Infectious Diseases and 
+Infection Control, Yamagata Prefectural Central Hospital, Yamagata, Japan.
+(10)Yamagata Prefectural University of Health Sciences, Kamiyanagi, Yamagata, 
+990-2212, Japan.
+(11)Center of Excellence in Immunology and Immune-Mediated Diseases, 
+Chulalongkorn University, Bangkok, Thailand. nattiyap@gmail.com.
+(12)Department of Microbiology, Faculty of Medicine, Chulalongkorn University, 
+King Chulalongkorn Memorial Hospital, Thai Red Cross Society, Bangkok, Thailand. 
+nattiyap@gmail.com.
+(13)Department of Microbiology and Immunology, University of Otago, Dunedin, New 
+Zealand. alex.mclellan@otago.ac.nz.
+(#)Contributed equally
+
+Non-synonymous mutations in the SARS-CoV-2 spike region affect cell entry, 
+tropism, and immune evasion, while frequent synonymous mutations may modify 
+viral fitness. Host microRNAs, a type of non-coding RNA, play a crucial role in 
+the viral life cycle, influencing viral replication and the host immune response 
+directly or indirectly. Recently, we identified ten miRNAs with a high 
+complementary capacity to target various regions of the SARS-CoV-2 genome. We 
+filtered our candidate miRNAs to those only expressed with documented expression 
+in SARS-CoV-2 target cells, with an additional focus on miRNAs that have been 
+reported in other viral infections. We determined if mutations in the first 
+SARS-CoV-2 variants of concern affected these miRNA binding sites. Out of ten 
+miRNA binding sites, five were negatively impacted by mutations, with three 
+recurrent synonymous mutations present in multiple SARS-CoV-2 lineages with 
+high-frequency NSP3: C3037U and NSP4: G9802U/C9803U. These mutations were 
+predicted to negatively affect the binding ability of miR-197-5p and miR-18b-5p, 
+respectively. In these preliminary findings, using a dual-reporter assay system, 
+we confirmed the ability of these miRNAs in binding to the predicted NSP3 and 
+NSP4 regions and the loss/reduced miRNA bindings due to the recurrent mutations.
+
+© 2023. Springer Nature Limited.
+
+DOI: 10.1038/s41598-023-44219-y
+PMCID: PMC10560223
+PMID: 37805621 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+2. BMC Health Serv Res. 2023 Oct 7;23(1):1074. doi: 10.1186/s12913-023-10062-0.
+
+Lessons learned from the experiences and perspectives of frontline healthcare 
+workers on the COVID-19 response: a qualitative descriptive study.
+
+Orhierhor M(1)(2), Pringle W(1)(2), Halperin D(3)(4), Parsons J(5)(6), Halperin 
+SA(4)(7), Bettinger JA(8)(9).
+
+Author information:
+(1)Vaccine Evaluation Center, BC Children's Hospital Research Institute, 
+University of British Columbia, A5-950 West 28th Street, Vancouver, BC, V5Z 4H4, 
+Canada.
+(2)Department of Pediatrics, University of British Columbia, Vancouver, Canada.
+(3)Rankin School of Nursing, St. Francis Xavier University, 4130 University Ave, 
+Antigonish, Nova Scotia, B2G 2W5, Canada.
+(4)Canadian Center for Vaccinology, Dalhousie University, IWK Health, Nova 
+Scotia Health, Halifax, Nova Scotia, B3K 6R8, Canada.
+(5)Li Ka Shing Knowledge Institute, St. Michael's Hospital, Unity Health 
+Toronto, Toronto, Ontario, M5B 1W8, Canada.
+(6)Department of Occupational Science & Occupational Therapy, Department of 
+Physical Therapy, and the Rehabilitation Sciences Institute, University of 
+Toronto, Toronto, Ontario, Canada.
+(7)Departments of Pediatrics and Microbiology & Immunology, Dalhousie 
+University, 5850/5980 University Ave, Halifax, Nova Scotia, Canada.
+(8)Vaccine Evaluation Center, BC Children's Hospital Research Institute, 
+University of British Columbia, A5-950 West 28th Street, Vancouver, BC, V5Z 4H4, 
+Canada. jbettinger@bcchr.ubc.ca.
+(9)Department of Pediatrics, University of British Columbia, Vancouver, Canada. 
+jbettinger@bcchr.ubc.ca.
+
+BACKGROUND: During the COVID-19 pandemic, healthcare systems and healthcare 
+workers (HCWs) faced significant demands and unique challenges. In this 
+qualitative study, we explore the effects of the COVID-19 public health policies 
+on British Columbia's frontline HCWs, describe what worked in the management of 
+the pandemic, and elucidate the lessons learned that could be applied to future 
+pandemic preparedness, recovery and response.
+METHODS: This qualitative descriptive study is part of a larger, national 
+multi-case study on pandemic policy communication and uptake. Semi-structured 
+interviews were conducted from November 2020- June 2021 with fourteen HCWs 
+working in long-term care (LTC), acute care and public health settings. Data 
+were inductively coded, and analyzed following a resilience framework for public 
+health emergency preparedness, which emphasizes the essential elements of a 
+public health system, vital to all phases of health emergency management, 
+readiness, response and recovery.
+RESULTS: HCWs experienced confusion, frustration, uncertainty, anxiety, fatigue 
+and stress, during the pandemic and detailed challenges that affected policy 
+implementation. This included communication and coordination inconsistencies 
+between the province and regional health authorities; lack of involvement of 
+frontline staff in pandemic planning; inadequate training and support; 
+inadequate personal protective equipment resource capacity and mobilization; and 
+staffing shortages. HCWs recommended increased collaboration between frontline 
+staff and policy makers, investment in preparing and practicing pandemic plans, 
+and the need for training in emergency management and infection prevention and 
+control.
+CONCLUSIONS: Pandemic planning, response and recovery should include inputs from 
+actors/key stakeholders at the provincial, regional and local levels, to 
+facilitate better coordination, communication and outcomes. Also, given the 
+critical roles of frontline HCWs in policy implementation, they should be 
+adequately supported and consideration must be given to how they interpret and 
+act on policies. Bi-directional communication channels should be incorporated 
+between policymakers and frontline HCWs to verify the appropriate adoption of 
+policies, reflective learning, and to ensure policy limitations are being 
+communicated and acted upon by policy makers.
+
+© 2023. BioMed Central Ltd., part of Springer Nature.
+
+DOI: 10.1186/s12913-023-10062-0
+PMCID: PMC10559616
+PMID: 37805603 [Indexed for MEDLINE]
+
+Conflict of interest statement: SAH has served on ad hoc advisory boards and 
+undertaken clinical trials for multiple manufacturers of COVID-19 vaccines. All 
+other authors declare that they have no competing interests.
+
+
+3. J Biomed Sci. 2023 Oct 7;30(1):84. doi: 10.1186/s12929-023-00977-5.
+
+mRNA-based vaccines and therapeutics: an in-depth survey of current and upcoming 
+clinical applications.
+
+Wang YS(#)(1), Kumari M(#)(1), Chen GH(#)(2), Hong MH(2), Yuan JP(2), Tsai 
+JL(1), Wu HC(3)(4).
+
+Author information:
+(1)Institute of Cellular and Organismic Biology, Academia Sinica, No. 128, 
+Academia Road, Section 2, Nankang, Taipei, 11529, Taiwan.
+(2)Biomedical Translation Research Center (BioTReC), Academia Sinica, Taipei, 
+11571, Taiwan.
+(3)Institute of Cellular and Organismic Biology, Academia Sinica, No. 128, 
+Academia Road, Section 2, Nankang, Taipei, 11529, Taiwan. 
+hcw0928@gate.sinica.edu.tw.
+(4)Biomedical Translation Research Center (BioTReC), Academia Sinica, Taipei, 
+11571, Taiwan. hcw0928@gate.sinica.edu.tw.
+(#)Contributed equally
+
+mRNA-based drugs have tremendous potential as clinical treatments, however, a 
+major challenge in realizing this drug class will promise to develop methods for 
+safely delivering the bioactive agents with high efficiency and without 
+activating the immune system. With regard to mRNA vaccines, researchers have 
+modified the mRNA structure to enhance its stability and promote systemic 
+tolerance of antigenic presentation in non-inflammatory contexts. Still, 
+delivery of naked modified mRNAs is inefficient and results in low levels of 
+antigen protein production. As such, lipid nanoparticles have been utilized to 
+improve delivery and protect the mRNA cargo from extracellular degradation. This 
+advance was a major milestone in the development of mRNA vaccines and dispelled 
+skepticism about the potential of this technology to yield clinically approved 
+medicines. Following the resounding success of mRNA vaccines for COVID-19, many 
+other mRNA-based drugs have been proposed for the treatment of a variety of 
+diseases. This review begins with a discussion of mRNA modifications and 
+delivery vehicles, as well as the factors that influence administration routes. 
+Then, we summarize the potential applications of mRNA-based drugs and discuss 
+further key points pertaining to preclinical and clinical development of mRNA 
+drugs targeting a wide range of diseases. Finally, we discuss the latest market 
+trends and future applications of mRNA-based drugs.
+
+© 2023. National Science Council of the Republic of China (Taiwan).
+
+DOI: 10.1186/s12929-023-00977-5
+PMCID: PMC10559634
+PMID: 37805495 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared no competing 
+interests.
+
+
+4. J Coll Physicians Surg Pak. 2023 Oct;33(10):1204-1206. doi: 
+10.29271/jcpsp.2023.10.1204.
+
+Relationship of End Expiratory Lung Volume, Compliance, and Plateau Pressure in 
+Acute Respiratory Distress Syndrome.
+
+Saseedharan S(1), Patil S(1), Rambhad S(1), Kadam V(1), Yadav A(1), Bagade R(1).
+
+Author information:
+(1)Department of Anaesthesiology and Critical Care, S.L. Raheja Hospital, 
+Mumbai, India.
+
+COVID-19 ARDS (acute respiratory distress syndrome), caused by 
+SARS-CoV-2, involves a decrease in the end expiratory lung volume (EELV), 
+compliance, and hypoxemia. The authors retrospectively analysed the relationship 
+between the EELV, Plateau pressure (Pplat), and compliance of the respiratory 
+system in a group of 21 mechanically ventilated COVID ARDS patients with 
+moderate to severe hypoxia who were subjected to a recruitment manoeuvre. 
+Further, these parameters were studied after dividing them into two groups as 
+Group 1 of clinically non-recruitable and Group 2 of clinically recruitable 
+patients. There was relationship between EELV, compliance, and Pplat among those 
+patients who were clinically recruited versus those who were not in a 
+homogeneous group of COVID ARDS patients. In Group 1, the statistical value of 
+EELV and compliance were r = 0.395, p>0.05, EELV and Pplat were r = 0.021, 
+p>0.05, and compliance and Pplat were r = -0.848, p<0.001. In Group 2, the 
+statistical values of EELV and compliance were (r = 0.605, p<0.001), EELV and 
+Pplat were r = -0.391, p<0.05, compliance and Pplat were r = -0.848, p<0.001. 
+The additional information gained after understanding this relationship can help 
+to optimise ventilator settings. Key Words: COVID, ARDS, End expiratory lung 
+volume, Plateau pressure, Compliance, Recruitment, Ventilation.
+
+DOI: 10.29271/jcpsp.2023.10.1204
+PMID: 37804032 [Indexed for MEDLINE]
+
+
+5. J Coll Physicians Surg Pak. 2023 Oct;33(10):1093-1099. doi: 
+10.29271/jcpsp.2023.10.1093.
+
+Bioinformatics Approaches to Identify the Comorbidity Complexities of 
+<em>SARS-CoV-2</em> Infection with Crohn's Disease.
+
+Li Y(1)(2), Han X.
+
+Author information:
+(1)Department of Emergency and Critical Care Medicine, Jiading District Central 
+Hospital Affiliated Shanghai University of Medicine & Health Sciences, Shanghai, 
+China.
+(2)Department of Cardiology, Jiading District Central Hospital Affiliated 
+Shanghai University of Medicine & Health Sciences, Shanghai, China.
+
+OBJECTIVE: To analyse potential molecular mechanisms and identify potential 
+therapeutic regimens and drugs to treat severe acute respiratory syndrome 
+coronavirus 2 (SARS-CoV-2) and Crohn's disease (CD) through bioinformatics and 
+systems biology.
+STUDY DESIGN: Bioinformatics Study. Place and Duration of the Study: Jiading 
+District Central Hospital Affiliated Shanghai University of Medicine & Health 
+Sciences, Shanghai, China, from May to December 2022.
+METHODOLOGY: The common differentially expressed genes (DEGs) between CD and 
+SARS-CoV-2 infection were identified using two RNA-seq datasets (GSE147507, 
+GSE153974) extracted from Gene Expression Omnibus (GEO). Subsequently, 
+functional enrichment, pathway analysis, and candidate drug analysis were 
+performed using these DEGs.
+RESULTS: In total, 44 DEGs were identified as common between CD and SARS-CoV-2 
+infection. A protein-protein interaction (PPI) network was constructed, hub 
+genes were identified, and critical modules were determined by means of 
+bioinformatics and combinatorial statistical approaches. Functional and pathway 
+analyses conducted under ontological conditions showed a common association 
+between CD and infection with SARS-CoV-2. The common DEGs were then used to 
+identify coregulatory networks of interactions between transcriptional factors 
+and genes, between proteins and medicines, and between DEGs and miRNAs.
+CONCLUSION: Top 10 hub genes including IL6, CXCL1, CSF2, CXCL2, CXCL5, MMP3, 
+PTGS2, CXCL3, SELE, and LCN2 were identified, which may function as potential 
+candidate targets for SARS-CoV-2 infection. Additionally, the identification of 
+certain promising treatment drugs for patients with SARS-CoV-2 infection and CD 
+was also made.
+KEY WORDS: SARS-CoV-2, COVID-19, Drug molecule, Hub gene, Protein-protein 
+interaction (PPI), Gene ontology, Crohn's disease, Differentially expressed 
+genes.
+
+DOI: 10.29271/jcpsp.2023.10.1093
+PMID: 37804012 [Indexed for MEDLINE]
+
+
+6. Zhonghua Wei Zhong Bing Ji Jiu Yi Xue. 2023 Sep;35(9):919-926. doi: 
+10.3760/cma.j.cn121430-20230804-00579.
+
+[Interpretation of new concepts and approaches in the ESICM guidelines on acute 
+respiratory distress syndrome: definition, phenotyping and respiratory support 
+strategies].
+
+[Article in Chinese]
+
+Li Z(1), Meng Y, Li L, Zhang Y.
+
+Author information:
+(1)Division of Surgical Intensive Care Unit, Cardiac Surgery Department, Fuwai 
+Hospital, National Center for Cardiovascular Diseases, Chinese Academy of 
+Medical Science and Peking Union Medical College, Beijing 100037, China. 
+Corresponding author: Zhang Yanbo, Email: yanbozhang@126.com.
+
+Acute respiratory distress syndrome (ARDS) continues to be one of the most 
+life-threatening conditions for patients in the intensive care unit (ICU). The 
+2023 European Society of Intensive Care Medicine guidelines on ARDS: definition, 
+phenotyping and respiratory support strategies (2023 Guideline) update the 2017 
+An Official American Thoracic Society/European Society of Intensive Care 
+Medicine/Society of Critical Care Medicine clinical practice guideline: 
+mechanical ventilation in adult patients with ARDS (2017 Guideline), including 7 
+aspects of 3 topics of definitions, phenotyping, and respiratory support 
+strategies [including high flow nasal cannula oxygen (HFNO), non-invasive 
+ventilation (NIV), neuromuscular blocking agents (NMBA), extracorporeal life 
+support (ECLS), positive end-expiratory pressure (PEEP) with recruitment 
+maneuvers (RM), tidal volume (VT), and prone positioning]. 2023 Guideline review 
+and summarize the literature since the publication of the 2017 Guideline, 
+covering ARDS and acute hypoxemic respiratory failure, as well as ARDS caused by 
+novel coronavirus infection. Based on the most recent medical evidence, the 2023 
+Guideline provide clinicians with new ideas and approaches for nonpharmacologic 
+respiratory support strategies for adults with ARDS. This article provides 
+interpretation of the new concepts, the new approaches, the new recommended 
+grading and new levels of evidence for ARDS in the 2023 Guideline.
+
+DOI: 10.3760/cma.j.cn121430-20230804-00579
+PMID: 37803950 [Indexed for MEDLINE]
+
+
+7. Food Res Int. 2023 Nov;173(Pt 2):113451. doi: 10.1016/j.foodres.2023.113451. 
+Epub 2023 Sep 11.
+
+Food-related consumer behaviours in times of crisis: Changes in the wake of the 
+Ukraine war, rising prices and the aftermath of the COVID-19 pandemic.
+
+Grunert KG(1), Chimisso C(2), Lähteenmäki L(3), Leardini D(3), Sandell MA(4), 
+Vainio A(5), Vranken L(2).
+
+Author information:
+(1)MAPP Centre, Aarhus University, Denmark; School of Marketing and 
+Communication, University of Vaasa, Finland. Electronic address: klg@mgmt.au.dk.
+(2)Department of Earth and Environmental Sciences, KU Leuven, Belgium.
+(3)MAPP Centre, Aarhus University, Denmark.
+(4)Department of Food and Nutrition, University of Helsinki, Finland.
+(5)Helsinki Institute of Sustainability Science, Department of Forest Sciences, 
+University of Helsinki, Finland.
+
+When the COVID-19 pandemic subsided, the war in Ukraine led to further 
+disruptions in consumers' daily behaviours, with rising prices for food and 
+energy. We conducted a survey study on self-reported changes in food-related 
+consumer behaviour in ten European countries and compared the results to a 
+similar study conducted two years ago. A latent class cluster analysis 
+distinguished five clusters and showed that different types of consumers can be 
+distinguished based on how they react to the crisis as regards their eating 
+habits. 19% of survey participants reported no major changes, and 32% reported 
+changes mostly in terms of more price sensitivity. Among those that reported 
+changes beyond reacting to higher prices, there are indications of more mindful 
+eating and more deliberate choices. The changes already found earlier in 
+response to the COVID-19 pandemic therefore seem to have been strengthened and 
+supplemented by reactions to price increases. The results present a challenge to 
+the food industry in terms of supplying healthy and sustainable food at 
+affordable prices.
+
+Copyright © 2023 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.foodres.2023.113451
+PMID: 37803775 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+8. World Neurosurg. 2023 Oct;178:297. doi: 10.1016/j.wneu.2023.07.091.
+
+In Reply to the Letter to the Editor Regarding "Making the Case for Public 
+Reporting of Data in Neurosurgery: A Physician's Personal Story".
+
+Daily J(1).
+
+Author information:
+(1)Arkansas Children's Hospital, Little Rock, Arkansas, USA; University of 
+Arkansas for Medical Sciences, Little Rock, Arkansas, USA. Electronic address: 
+jadaily@uams.edu.
+
+DOI: 10.1016/j.wneu.2023.07.091
+PMID: 37803684 [Indexed for MEDLINE]
+
+
+9. BMC Psychol. 2023 Oct 6;11(1):317. doi: 10.1186/s40359-023-01367-0.
+
+Factors predicting mental health in youth during the first COVID-19 lockdown in 
+Spain.
+
+Vicario-Molina I(1), Ortega EG(2), González RP(3), Picos AP(3).
+
+Author information:
+(1)Department of Developmental and Educational Psychology, University of 
+Salamanca, Avenida de la Merced s/n, Salamanca, 37005, Spain. ivicario@usal.es.
+(2)Department of Developmental and Educational Psychology, University of 
+Salamanca, Avenida de la Merced s/n, Salamanca, 37005, Spain.
+(3)Department of Psychology, University of Valladolid, Plaza de la Universidad, 
+1, Segovia, 400005, Spain.
+
+BACKGROUND: The first COVID-19 lockdown decreed in Spain by the government 
+resulted in a significant disruption in the daily lives of youth that may have 
+affected their mental health. The aim of this study was to identify factors that 
+influenced youth mental health during this period.
+METHODS: Between March and May 2020, a sample of 1205 youths (age range 18-24 
+years) from across Spain completed a questionnaire that assessed 
+sociodemographic, mental health, loneliness, coping with humour and healthy 
+habits. Data were analysed using Structural Equation Modelling.
+RESULTS: The proposed model showed good fit values, and significant variables 
+explained 37% of mental health. loneliness, coping humour, healthy and unhealthy 
+habits, and gender significantly predicted youth mental health.
+CONCLUSIONS: The consequences of the pandemic and confinement derived from 
+COVID-19 seemed to be especially severe for youth, increasing their mental 
+health vulnerability. It is recommended that evaluating the long-term effects of 
+confinement on this population, the mental health needs they may have and the 
+support resources that would help meet them in situations of isolation, paying 
+special attention to females.
+
+© 2023. BioMed Central Ltd., part of Springer Nature.
+
+DOI: 10.1186/s40359-023-01367-0
+PMCID: PMC10559502
+PMID: 37803388 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+10. Virol J. 2023 Oct 6;20(1):226. doi: 10.1186/s12985-023-02195-9.
+
+Real-world evidence with a retrospective cohort of 15,968 COVID-19 hospitalized 
+patients suggests 21 new effective treatments.
+
+Loucera C(1)(2), Carmona R(1)(2)(3), Esteban-Medina M(1)(2), Bostelmann G(1), 
+Muñoyerro-Muñiz D(4), Villegas R(4), Peña-Chilet M(1)(2)(3), Dopazo 
+J(5)(6)(7)(8).
+
+Author information:
+(1)Computational Medicine Platform, Andalusian Public Foundation Progress and 
+Health-FPS, Sevilla, Spain.
+(2)Institute of Biomedicine of Seville, IBiS, University Hospital Virgen del 
+Rocío/CSIC/University of Seville, Sevilla, Spain.
+(3)Centro de Investigación Biomédica en Red de Enfermedades Raras (CIBERER), 
+FPS. Hospital Virgen del Rocio, Sevilla, Spain.
+(4)Subdirección Técnica Asesora de Gestión de la Información. Servicio Andaluz 
+de Salud, Sevilla, Spain.
+(5)Computational Medicine Platform, Andalusian Public Foundation Progress and 
+Health-FPS, Sevilla, Spain. joaquin.dopazo@juntadeandalucia.es.
+(6)Institute of Biomedicine of Seville, IBiS, University Hospital Virgen del 
+Rocío/CSIC/University of Seville, Sevilla, Spain. 
+joaquin.dopazo@juntadeandalucia.es.
+(7)Centro de Investigación Biomédica en Red de Enfermedades Raras (CIBERER), 
+FPS. Hospital Virgen del Rocio, Sevilla, Spain. 
+joaquin.dopazo@juntadeandalucia.es.
+(8)FPS/ELIXIR-ES, Fundación Progreso y Salud (FPS), CDCA, Hospital Virgen del 
+Rocio, Sevilla, Spain. joaquin.dopazo@juntadeandalucia.es.
+
+PURPOSE: Despite the extensive vaccination campaigns in many countries, COVID-19 
+is still a major worldwide health problem because of its associated morbidity 
+and mortality. Therefore, finding efficient treatments as fast as possible is a 
+pressing need. Drug repurposing constitutes a convenient alternative when the 
+need for new drugs in an unexpected medical scenario is urgent, as is the case 
+with COVID-19.
+METHODS: Using data from a central registry of electronic health records (the 
+Andalusian Population Health Database), the effect of prior consumption of drugs 
+for other indications previous to the hospitalization with respect to patient 
+outcomes, including survival and lymphocyte progression, was studied on a 
+retrospective cohort of 15,968 individuals, comprising all COVID-19 patients 
+hospitalized in Andalusia between January and November 2020.
+RESULTS: Covariate-adjusted hazard ratios and analysis of lymphocyte progression 
+curves support a significant association between consumption of 21 different 
+drugs and better patient survival. Contrarily, one drug, furosemide, displayed a 
+significant increase in patient mortality.
+CONCLUSIONS: In this study we have taken advantage of the availability of a 
+regional clinical database to study the effect of drugs, which patients were 
+taking for other indications, on their survival. The large size of the database 
+allowed us to control covariates effectively.
+
+© 2023. BioMed Central Ltd., part of Springer Nature.
+
+DOI: 10.1186/s12985-023-02195-9
+PMCID: PMC10559601
+PMID: 37803348 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests. The 
+authors have no competing interests to declare that are relevant to the content 
+of this article.
+
+
+11. Sci Rep. 2023 Oct 6;13(1):16866. doi: 10.1038/s41598-023-43991-1.
+
+The contribution of risk perception and social norms to reported preventive 
+behaviour against selected vector-borne diseases in Guyana.
+
+Lopes-Rafegas I(1), Cox H(2), Mora T(3), Sicuri E(4)(5).
+
+Author information:
+(1)ISGlobal, Hospital Clínic Universitat de Barcelona, Barcelona, Spain. 
+iris.lopes@isglobal.org.
+(2)Vector Control Services, Ministry of Health, Georgetown, Guyana.
+(3)Research Institute for Evaluation and Public Policies (IRAPP), Universitat 
+Internacional de Catalunya (UIC), Barcelona, Spain.
+(4)ISGlobal, Hospital Clínic Universitat de Barcelona, Barcelona, Spain. 
+elisa.sicuri@isglobal.org.
+(5)LSE Health, London School of Economics and Political Science, London, UK. 
+elisa.sicuri@isglobal.org.
+
+Preventing vector-borne diseases (VBDs) mainly relies on effective vector 
+control tools and strategies, which in turn depend on population acceptance and 
+adherence. Inspired by the abundant recent literature on SARS-COV-2, we 
+investigate the relationship between risk perception and preventive behaviour 
+for selected VBDs and the extent to which risk perception is determined by 
+social norms. We use cross-sectional data collected from 497 individuals in four 
+regions of Guyana in 2017. We use a conditional mixed process estimator with 
+multilevel coefficients, estimated through a Generalized Linear Model (GLM) 
+framework, applying a simultaneous equation structure. We find robust results on 
+malaria: risk perception was significantly influenced by the risk perception of 
+the reference group across different definitions of the reference group, hinting 
+at the existence of social norms. Risk perception significantly increased the 
+likelihood of passive behaviour by 4.48%. Less clear-cut results were found for 
+dengue. This study applies quantitative social science methods to public health 
+issues in the context of VBDs. Our findings point to the relevance of tailoring 
+communications on health risks for VBDs to groups defined at the intersection of 
+socio-economic and demographic characteristics. Such tailored strategies are 
+expected to align risk perception among reference groups and boost preventive 
+behaviour.
+
+© 2023. Springer Nature Limited.
+
+DOI: 10.1038/s41598-023-43991-1
+PMCID: PMC10558444
+PMID: 37803142 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+12. Cell Stem Cell. 2023 Oct 5;30(10):1315-1330.e10. doi: 
+10.1016/j.stem.2023.09.001.
+
+Complement factor D targeting protects endotheliopathy in organoid and monkey 
+models of COVID-19.
+
+Kawakami E(1), Saiki N(2), Yoneyama Y(3), Moriya C(3), Maezawa M(3), Kawamura 
+S(3), Kinebuchi A(3), Kono T(1), Funata M(1), Sakoda A(4), Kondo S(4), Ebihara 
+T(5), Matsumoto H(5), Togami Y(5), Ogura H(5), Sugihara F(6), Okuzaki D(7), 
+Kojima T(5), Deguchi S(8), Vallee S(9), McQuade S(10), Islam R(9), Natarajan 
+M(9), Ishigaki H(11), Nakayama M(11), Nguyen CT(11), Kitagawa Y(11), Wu Y(12), 
+Mori K(13), Hishiki T(14), Takasaki T(15), Itoh Y(11), Takayama K(8), Nio Y(16), 
+Takebe T(17).
+
+Author information:
+(1)T-CiRA Discovery & Innovation, Takeda Pharmaceutical Company Ltd, 2-26-1, 
+Muraoka-higashi, Fujisawa, Kanagawa 251-8555, Japan; Organoid Medicine Project, 
+T-CiRA Joint Program, 2-26-1, Muraoka-higashi, Fujisawa, Kanagawa 251-8555, 
+Japan.
+(2)Institute of Research, Tokyo Medical and Dental University, 1-5-45, Yushima, 
+Bunkyo-ku, Tokyo 113-8510, Japan; Organoid Medicine Project, T-CiRA Joint 
+Program, 2-26-1, Muraoka-higashi, Fujisawa, Kanagawa 251-8555, Japan.
+(3)Institute of Research, Tokyo Medical and Dental University, 1-5-45, Yushima, 
+Bunkyo-ku, Tokyo 113-8510, Japan.
+(4)T-CiRA Discovery & Innovation, Takeda Pharmaceutical Company Ltd, 2-26-1, 
+Muraoka-higashi, Fujisawa, Kanagawa 251-8555, Japan.
+(5)Department of Traumatology and Acute Critical Medicine, Osaka University 
+Graduate School of Medicine, 2-15, Yamada-oka, Suita, Osaka 565-0871, Japan.
+(6)Core Instrumentation Facility, Immunology Frontier Research Center and 
+Research Institute for Microbial Diseases, Osaka University, 3-3-1, Yamada-oka, 
+Suita, Osaka 565-0871, Japan.
+(7)Genome Information Research Center, Research Institute for Microbial Disease, 
+Osaka University, 3-1 Yamada-oka, Suita, Osaka 565-0871, Japan.
+(8)Center for iPS Cell Research and Application (CiRA), Kyoto University, Kyoto 
+606-8507, Japan.
+(9)Rare Disease DDU, Takeda Pharmaceutical Company Ltd, 125 Binney Street, 
+Cambridge, MA 02139, USA.
+(10)Rare Disease DDU, Takeda Pharmaceutical Company Ltd, 125 Binney Street, 
+Cambridge, MA 02139, USA; BPS Biosciences Inc., 6405 Mira Mesa Blvd. Suite 100, 
+San Diego, CA 92121, USA.
+(11)Department of Pathology, Shiga University of Medical Science, Setatsukinowa, 
+Otsu, Shiga 520-2192, Japan.
+(12)Graduate School of Informatics, Nagoya University, Furo-cho, Chikusa-ku, 
+Nagoya 464-8601, Japan.
+(13)Graduate School of Informatics, Nagoya University, Furo-cho, Chikusa-ku, 
+Nagoya 464-8601, Japan; Information Technology Center, Nagoya University, 
+Furo-cho, Chikusa-ku, Nagoya 464-8601, Japan; Research Center for Medical 
+Bigdata, National Institute of Informatics, Tokyo 100-0003, Japan.
+(14)Kanagawa Prefectural Institute of Public Health, 1-3-1, Shimomachiya, 
+Chigasaki, Kanagawa 253-0087, Japan; Research Center for Drug and Vaccine 
+Development, National Institute of Infectious Diseases, 1-23-1, Toyama, 
+Shinjuku-ku, Tokyo 162-8640, Japan.
+(15)Kanagawa Prefectural Institute of Public Health, 1-3-1, Shimomachiya, 
+Chigasaki, Kanagawa 253-0087, Japan; Advanced Technology and Development 
+Division, BML, INC, 1361-1, Matoba, Kawagoe-shi, Saitama 350-1101, Japan.
+(16)T-CiRA Discovery & Innovation, Takeda Pharmaceutical Company Ltd, 2-26-1, 
+Muraoka-higashi, Fujisawa, Kanagawa 251-8555, Japan; Organoid Medicine Project, 
+T-CiRA Joint Program, 2-26-1, Muraoka-higashi, Fujisawa, Kanagawa 251-8555, 
+Japan. Electronic address: ynioh0506@gmail.com.
+(17)Institute of Research, Tokyo Medical and Dental University, 1-5-45, Yushima, 
+Bunkyo-ku, Tokyo 113-8510, Japan; Organoid Medicine Project, T-CiRA Joint 
+Program, 2-26-1, Muraoka-higashi, Fujisawa, Kanagawa 251-8555, Japan; Division 
+of Gastroenterology, Hepatology and Nutrition & Division of Developmental 
+Biology, Cincinnati Children's Hospital Medical Center, 3333 Burnet Avenue, 
+Cincinnati, OH 45229-3039, USA; The Center for Stem Cell and Organoid Medicine 
+(CuSTOM), Cincinnati Children's Hospital Medical Center, 3333 Burnet Avenue, 
+Cincinnati, OH 45229-3039, USA; Department of Pediatrics, University of 
+Cincinnati College of Medicine, 3333 Burnet Avenue, Cincinnati, OH 45229-3039, 
+USA; Communication Design Center, Advanced Medical Research Center, Yokohama 
+City University Graduate School of Medicine, Yokohama, Kanagawa, Japan; Premium 
+Research Institute for Human Metaverse Medicine (WPI-PRIMe) and Department of 
+Genome Biology, Graduate School of Medicine, Osaka University, Suita, Osaka 
+565-0871, Japan. Electronic address: takanori.takebe@cchmc.org.
+
+COVID-19 is linked to endotheliopathy and coagulopathy, which can result in 
+multi-organ failure. The mechanisms causing endothelial damage due to severe 
+acute respiratory syndrome coronavirus 2 (SARS-CoV-2) remain elusive. Here, we 
+developed an infection-competent human vascular organoid from pluripotent stem 
+cells for modeling endotheliopathy. Longitudinal serum proteome analysis 
+identified aberrant complement signature in critically ill patients driven by 
+the amplification cycle regulated by complement factor B and D (CFD). This 
+deviant complement pattern initiates endothelial damage, neutrophil activation, 
+and thrombosis specific to organoid-derived human blood vessels, as verified 
+through intravital imaging. We examined a new long-acting, pH-sensitive 
+(acid-switched) antibody targeting CFD. In both human and macaque COVID-19 
+models, this long-acting anti-CFD monoclonal antibody mitigated abnormal 
+complement activation, protected endothelial cells, and curtailed the innate 
+immune response post-viral exposure. Collectively, our findings suggest that the 
+complement alternative pathway exacerbates endothelial injury and inflammation. 
+This underscores the potential of CFD-targeted therapeutics against severe 
+viral-induced inflammathrombotic outcomes.
+
+Copyright © 2023 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.stem.2023.09.001
+PMID: 37802037 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests N.S. and T.T. are 
+patent holders associated with the technology described in this project.
+
+
+13. Glob Public Health. 2023 Jan;18(1):2264946. doi:
+10.1080/17441692.2023.2264946.  Epub 2023 Oct 6.
+
+Social determinants of mental health among older adolescent girls living in 
+urban informal settlements in Kenya and Nigeria during the COVID-19 pandemic.
+
+Mũrage A(1), Ngunjiri A(2), Oyekunle A(3), Smith J(1).
+
+Author information:
+(1)Simon Fraser University, Burnaby, Canada.
+(2)LVCT Health, Nairobi, Kenya.
+(3)Monii Development Consult, Lagos, Nigeria.
+
+The health burden due to mental health has historically been underestimated with 
+focus on communicable diseases and deaths and little consideration of disability 
+and comorbidity effects of poor mental health. Recent data show increasing 
+trends of mental health disorders as a share of global health burdens and 
+vulnerability of adolescents. This paper aims to explore social determinants of 
+mental health as experienced by adolescent girls, drawing attention to gendered 
+risks during the COVID-19 pandemic. Semi-structured interviews with twenty-two 
+adolescent girls in urban informal settlements in Kenya and Nigeria reveal 
+unique environmental, socio-cultural, economic and educational factors that 
+threatened their mental wellbeing. The pandemic exacerbated these determinants. 
+An equitable recovery will require a consideration of not only disproportional 
+mental health outcomes, but also social determinants that contribute to these 
+outcomes. As more than half of the urban population in sub-Saharan Africa reside 
+in informal settlements, this study has implications for youth-focused mental 
+health interventions in these and similar settings.
+
+DOI: 10.1080/17441692.2023.2264946
+PMID: 37801724 [Indexed for MEDLINE]
+
+
+14. PLoS One. 2023 Oct 6;18(10):e0292247. doi: 10.1371/journal.pone.0292247. 
+eCollection 2023.
+
+COVID-19 prevention and rehabilitation related knowledge and practices among 
+Egyptian post-COVID-19 patients.
+
+Salem MR(1), Hegazy N(2), Abd El Fatah SAM(1), Shahib AEM(3), Hejazi AM(4).
+
+Author information:
+(1)Public Health and Community Medicine Department, Faculty of Medicine, Cairo 
+University, Cairo, Egypt.
+(2)Public Health, and Community Medicine Department, Faculty of Medicine, Helwan 
+University, Cairo, Egypt.
+(3)Faculty of Medicine, Cairo University, Cairo, Egypt.
+(4)Sixth Grade Medical Student, Faculty of Medicine, Cairo University, Cairo, 
+Egypt.
+
+BACKGROUND: Even with the mild form of COVID-19, people need to practice the 
+proper preventive measures to achieve health, safety and control spread of 
+infection. Few studies assessed sound disinfection and rehabilitative knowledge. 
+This study aims to assess the self-reported, knowledge of specific disinfection 
+measures among post-recovery COVID-19 patients and identifying the most 
+requested knowledge items regarding the prevention and post COVID rehabilitation 
+measures.
+METHODS: This is an exploratory cross-sectional study using an electronically 
+open survey. A pre-tested e-questionnaire was employed for data assembling. The 
+sample size was calculated and a total of 417 people completed the 
+questionnaire. Knowledge score was calculated for preventive and disinfection 
+measures during and after COVID 19 infection. It comprised three sections: 
+socio-demographics, study participants' knowledge regarding precautions, 
+disinfection, and rehabilitation measures, as well as sources of knowledge about 
+COVID-19.
+RESULTS: All participants infected with COVID-19 (82%) reported self-isolation 
+for ten days after confirming the infection, with only 18% required 
+hospitalization. Regarding the information needed by the participants, the 
+highest requests were for the rehabilitation information after COVID-19 and 
+preventive measures. Females under 30 years old and those with a college 
+education or higher were significantly more likely to request rehabilitation 
+information after COVID-19 (P-value 0.05). Nevertheless, males were 
+significantly more interested in information regarding preventive measures; They 
+were over 30 years old and had education below university (P-value 0.05). 
+Participants (above 30 years old) had significantly higher knowledge of 
+preventive and disinfection measures during and after COVID-19 infection (P = 
+0.030).
+CONCLUSION: After the COVID-19 experience, most participants demonstrated a 
+great desire for rehabilitation information and proper preventive measures. This 
+paves the way for delivering self-management and rehabilitation knowledge and 
+emphasizing the significance of various prevention modalities.
+
+Copyright: © 2023 Salem et al. This is an open access article distributed under 
+the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0292247
+PMCID: PMC10558073
+PMID: 37801438 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+15. Emergencias. 2023 Oct;35(5):391-394.
+
+Validation of the revised HOME-CoV rule to safely discharge patients with 
+COVID-19: a multicenter prospective cohort.
+
+[Article in English, Spanish]
+
+Douillet D(1), Gennai S(2), Claessens YE(3), Hachez M(4), Penaloza A(4), Sebbane 
+M(5), Gagnepain A(6), Morin F(7), Chauvin A(8), Montassier E(9), Thiebaud 
+PC(10), Violeau M(11), Andrianjafy H(12), Savary D(13), Riou J(14), Roy PM(1).
+
+Author information:
+(1)Emergency Department, Angers University Hospital, Angers, Francia. Univ 
+Angers, UMR MitoVasc CNRS 6015 - INSERM 1083; FCRIN, INNOVTE, Angers, Francia.
+(2)Emergency Department, Reims University Hospital, Reims, Francia.
+(3)Emergency Department, Princess Grace Hospital Center, Monaco, Mónaco.
+(4)Emergency Department, Cliniques Universitaires Saint-Luc, Université 
+catholique de Louvain, Brussels, Bélgica.
+(5)Emergency Department, Montpellier University Hospital, Montpellier, Francia.
+(6)Emergency Department, Libourne Hospital, Libourne, Francia.
+(7)Univ Angers, UMR MitoVasc CNRS 6015 - INSERM 1083; FCRIN, INNOVTE, Angers, 
+Francia.
+(8)Emergency Department, Hôpital Lariboisière, Assistance Publique-Hôpitaux de 
+Paris, Paris, Francia.
+(9)Emergency Department, Nantes University Hospital, Nantes, Francia.
+(10)Emergency Department, Hôpital Saint Antoine, Assistance Publique-Hôpitaux de 
+Paris, Paris, Francia.
+(11)Emergency Department, Niort Hospital, Niort, Francia.
+(12)Emergency Department, Longjumeau Hospital, Longjumeau, Francia.
+(13)Emergency Department, Angers University Hospital, Angers, Francia. UNIV 
+Angers, Univ Rennes, Inserm, EHESP, Irset (Institut de recherche en santé, 
+environnement et travail) - UMR_S1085, SFR ICAT, CAPTV-CDC, F-49000 Angers, 
+France.
+(14)Micro et Nano médecines Translationnelles, MINT, Univ Angers, UMR INSERM 
+1066, UMR CNRS 6021, Angers, Francia. Methodology and Biostatistics Department, 
+Delegation to Clinical Research and Innovation, Angers University Hospital, 
+49100 Angers, Francia.
+
+PMID: 37801423 [Indexed for MEDLINE]
+
+
+16. Emergencias. 2023 Oct;35(5):321-322.
+
+Towards normalizing emergency department care of patients with COVID-19.
+
+[Article in English, Spanish]
+
+Julián-Jiménez A(1).
+
+Author information:
+(1)Servicio de Urgencias, Complejo Hospitalario Universitario de Toledo, 
+Universidad de Castilla La Mancha, Toledo, España.
+
+PMID: 37801411 [Indexed for MEDLINE]
+
+
+17. JAMA Netw Open. 2023 Oct 2;6(10):e2336120. doi: 
+10.1001/jamanetworkopen.2023.36120.
+
+Autoimmune and Autoinflammatory Connective Tissue Disorders Following COVID-19.
+
+Lim SH(1), Ju HJ(2), Han JH(3), Lee JH(2), Lee WS(1), Bae JM(2), Lee S(1)(4).
+
+Author information:
+(1)Department of Dermatology, Yonsei University Wonju College of Medicine, 
+Wonju, Republic of Korea.
+(2)Department of Dermatology, St Vincent's Hospital, College of Medicine, The 
+Catholic University of Korea, Suwon, Korea.
+(3)Department of Dermatology, Seoul St Mary's Hospital College of Medicine, The 
+Catholic University of Korea, Seoul, Korea.
+(4)Department of Preventive Medicine, Yonsei University Wonju College of 
+Medicine, Wonju, Republic of Korea.
+
+IMPORTANCE: Multiple cases of autoimmune and autoinflammatory diseases after 
+COVID-19 have been reported. However, their incidences and risks have rarely 
+been quantified.
+OBJECTIVE: To investigate the incidences and risks of autoimmune and 
+autoinflammatory connective tissue disorders after COVID-19.
+DESIGN, SETTING, AND PARTICIPANTS: This was a retrospective population-based 
+study conducted between October 8, 2020, and December 31, 2021, that used 
+nationwide data from the Korea Disease Control and Prevention Agency COVID-19 
+National Health Insurance Service cohort and included individuals who received a 
+diagnosis of COVID-19 via polymerase chain reaction testing and a control group 
+with no evidence of COVID-19 identified from National Health Insurance Service 
+of Korea cohort. Data analysis was conducted from September 2022 to August 2023.
+EXPOSURES: Receipt of diagnosis of COVID-19.
+MAIN OUTCOMES AND MEASURES: The primary outcomes were the incidence and risk of 
+autoimmune and autoinflammatory connective tissue disorders following COVID-19. 
+A total of 32 covariates, including demographics, socioeconomic statuses, 
+lifestyle factors, and comorbidity profiles, were balanced through inverse 
+probability weighting. The incidences and risks of autoimmune and 
+autoinflammatory connective tissue disorders were compared between the groups 
+using multivariable Cox proportional hazard analyses.
+RESULTS: A total of 354 527 individuals with COVID-19 (mean [SD] age, 52.24 
+[15.55] years; 179 041 women [50.50%]) and 6 134 940 controls (mean [SD] age, 
+52.05 [15.63] years; 3 074 573 women [50.12%]) were included. The risks of 
+alopecia areata (adjusted hazard ratio [aHR], 1.12; 95% CI, 1.05-1.19), alopecia 
+totalis (aHR, 1.74; 95% CI, 1.39-2.17), antineutrophil cytoplasmic 
+antibody-associated vasculitis (aHR, 2.76; 95% CI, 1.64-4.65), Crohn disease 
+(aHR, 1.68; 95% CI, 1.31-2.15), and sarcoidosis (aHR, 1.59; 95% CI, 1.00-2.52) 
+were higher in the COVID-19 group. The risks of alopecia totalis, psoriasis, 
+vitiligo, vasculitis, Crohn disease, ulcerative colitis, rheumatoid arthritis, 
+adult-onset Still disease, Sjögren syndrome, ankylosing spondylitis, and 
+sarcoidosis were associated with the severity of COVID-19.
+CONCLUSIONS AND RELEVANCE: In this retrospective cohort study, COVID-19 was 
+associated with a substantial risk for autoimmune and autoinflammatory 
+connective tissue disorders, indicating that long-term management of patients 
+with COVID-19 should include evaluation for such disorders.
+
+DOI: 10.1001/jamanetworkopen.2023.36120
+PMCID: PMC10559181
+PMID: 37801317 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: None reported.
+
+
+18. J Med Microbiol. 2023 Oct;72(10). doi: 10.1099/jmm.0.001757.
+
+Rapid response of a public health reference laboratory to the COVID-19 pandemic.
+
+Pinhata JMW(1), Brandao AP(1)(2), Leite D(1), Oliveira RS(1), Fukasawa LO(3), 
+Gonçalves MG(3), Guerra JM(4), Araujo LJT(4), Mansueli GP(1), Santos LB(1), 
+Borghesan TC(1), Kimura LM(4), Takahashi JPF(4)(5), Garcia JA(4), Piza ART(4), 
+Ferreira CSDS(4), Polatto R(1), Guerra MLLES(1), Fazioli RDA(2), Zanella RC(1), 
+Blanco RM(1), Ial-Working Group.
+
+Author information:
+(1)Instituto Adolfo Lutz, Centro de Bacteriologia, Av. Dr. Arnaldo, 351, 9º 
+andar, 01246-000, São Paulo, SP, Brazil.
+(2)Instituto Oswaldo Cruz, FIOCRUZ, Av. Brasil, 4365, 21040-360, Rio de Janeiro, 
+RJ, Brazil.
+(3)Instituto Adolfo Lutz, Centro de Imunologia, Av. Dr. Arnaldo, 351, 11º andar, 
+01246-000, São Paulo, SP, Brazil.
+(4)Instituto Adolfo Lutz, Centro de Patologia, Av. Dr. Arnaldo, 351, 7º andar, 
+01246-000, São Paulo, SP, Brazil.
+(5)Universidade Federal do Mato Grosso do Sul, Faculdade de Medicina, Programa 
+de Pós-graduação em Doenças Infecciosas e Parasitárias, Cidade Universitária, 
+Caixa Postal 549, 79070-900, Campo Grande, MS, Brazil.
+
+Introduction. Brazil was one of the most affected countries by the COVID-19 
+pandemic. Instituto Adolfo Lutz (IAL) is the reference laboratory for COVID-19 
+in São Paulo, the most populous state in Brazil. In April 2020, a secondary 
+diagnostic pole named IAL-2 was created to enhance IAL's capacity for COVID-19 
+diagnosis.Hypothesis/Gap Statement. Public health laboratories must be prepared 
+to rapidly respond to emerging epidemics or pandemics.Aim. To describe the 
+design of IAL-2 and correlate the results of RT-qPCR tests for COVID-19 with 
+secondary data on suspected cases of SARS-CoV-2 infection in the São Paulo 
+state.Methodology. This is a retrospective study based on the analysis of 
+secondary data from patients suspected of infection by SARS-CoV-2 whose clinical 
+samples were submitted to real-time PCR after reverse transcription (RT-qPCR) at 
+IAL-2, between 1 April 2020 and 8 March 2022. RT-qPCR Ct results of the 
+different kits used were also analysed.Results. IAL-2 was implemented in April 
+2020, just over a month after the detection of the first COVID-19 case in 
+Brazil. The laboratory performed 304,250 RT-qPCR tests during the study period, 
+of which 98 319 (32.3 %) were positive, 205827 (67.7 %) negative, and 104 
+(0.03 %) inconclusive for SARS-CoV-2. RT-qPCR Ct values≤30 for E/N genes of 
+SARS-CoV-2 were presented by 79.7 % of all the samples included in the 
+study.Conclusion. IAL was able to rapidly implement a new laboratory structure 
+to support the processing of an enormous number of samples for diagnosis of 
+COVID-19, outlining strategies to carry out work with quality, using different 
+RT-qPCR protocols.
+
+DOI: 10.1099/jmm.0.001757
+PMID: 37801010 [Indexed for MEDLINE]
+
+
+19. Medicine (Baltimore). 2023 Oct 6;102(40):e35210. doi: 
+10.1097/MD.0000000000035210.
+
+Assessment of post-traumatic stress disorder and health-related quality of life 
+among patients recovered from mild-to-moderate COVID-19 and their close 
+contacts: A cross-sectional study.
+
+Louis N(1), Ragheb M(1), Ibrahim O(2), Salim A(3), E Dean Y(4), Kishk RM(5), 
+Elsaid NMAB(6)(7), Salem A(8), Shah J(9), Aiash H(10)(11), Eida M(1).
+
+Author information:
+(1)Endemic and Infectious Diseases Department, Faculty of Medicine, Suez Canal 
+University, Ismailia, Egypt.
+(2)Psychiatry and Neurology Department, Faculty of Medicine, Suez Canal 
+University, Ismailia, Egypt.
+(3)Family Medicine Department, Faculty of Medicine, Port-Said University, 
+Port-Said, Egypt.
+(4)Faculty of Medicine, Alexandria University, Alexandria, Egypt.
+(5)Department of Microbiology and Immunology, Faculty of Medicine, Suez Canal 
+University, Ismailia, Egypt.
+(6)Department of Public Health, Community, Environmental and Occupational 
+Medicine, Faculty of Medicine, Suez Canal University, Ismailia, Egypt.
+(7)Department of Basic Medical Sciences, Faculty of Medicine, King Salman 
+International University, South Sinai, Egypt.
+(8)Department of Internal Medicine, Faculty of Medicine, Suez Canal University, 
+Ismailia, Egypt.
+(9)Kateb University, Medical Research Center, Kabul, Afghanistan.
+(10)Department of Family Medicine, Faculty of Medicine, Suez Canal University, 
+Ismailia, Egypt.
+(11)SUNY, Upstate Medical University, Syracuse, NY.
+
+The pandemic of COVID-19 is a traumatic event with distressing implications for 
+mental health and several aspects of life. This study aimed to assess 
+Post-traumatic Stress Disorder (PTSD) and Health-Related Quality of Life (HRQoL) 
+among patients who experienced mild-to-moderate COVID-19 and their household 
+contacts. This cross-sectional descriptive study was conducted between May 2020 
+and November 2020, in Ismailia and Suez governorates. A convenient sampling 
+method was used. The sample size was calculated according to the prevalence of 
+PTSD in COVID-19 patients to be 200 adult participants from both sexes, 100 
+patients with history of recent COVID-19 infection (up to 2 months after 
+recovery) and their close family. COVID-19 was confirmed by a nasal swab sample 
+tested by PCR in addition to suggestive symptoms and/or positive computed 
+tomography lung findings. Data was collected by using the Arabic version of the 
+Post-Traumatic Stress disorder checklist 5 (PCL5-PTSD) and the Arabic version of 
+Health-Related Quality of Life (HRQoL). The questionnaire was collected through 
+interviews at the Endemic and Infectious diseases and Family medicine outpatient 
+clinics. Of the 200 studied participants, evidence of PTSD was found in 112 
+(56%) participants; all COVID-19 cases and 12 of their close-contact relatives. 
+Impaired HRQoL was evident in 107 (53.5%) participants; all the COVID-19 cases 
+and 7 contacts. The mean values total scores of the PTSD and HRQoL and its 
+domains were significantly higher among cases compared to their contacts. The 
+most frequently impaired domain was social (55%), psychological (54.5%), 
+impairment (53.5%) followed by physical (48.5%) and the least was health 
+perception (33.5%). The mean values of PTSD, HRQoL and their domains were 
+significantly higher among participants who recalled respiratory symptoms and 
+who had comorbid illness. The odds ratio of PTSD and HRQoL was 0.27 (95% CI: 
+0.2-0.36) and 0.3 (95% CI: 0.23-0.39) in participants who had more than a case 
+of COVID-19 within their families. All the studied COVID-19 participants showed 
+PTSD and impaired HRQoL, compared to 12% and 7% of their contacts, respectively. 
+Past COVID-19 was associated with impairment of all domains of HRQoL and the 
+most affected were the physical, psychological and impairment domains.
+
+Copyright © 2023 the Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/MD.0000000000035210
+PMCID: PMC10553092
+PMID: 37800844 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no funding and conflicts of 
+interest to disclose.
+
+
+20. Medicine (Baltimore). 2023 Oct 6;102(40):e35421. doi: 
+10.1097/MD.0000000000035421.
+
+Comparing demographics, clinical characteristics, and hospital outcomes by 
+vaccine uptake status: A single-institution cross-sectional study.
+
+Chen CX(1), Cabugao P(2), Nguyen M(1), Villegas D(2), Batra K(3)(4), Singh A(1), 
+Kioka M(5).
+
+Author information:
+(1)Department of Internal Medicine, Kirk Kerkorian School of Medicine at 
+University of Nevada, Las Vegas, NV, USA.
+(2)Kirk Kerkorian School of Medicine at University of Nevada, Las Vegas, NV, 
+USA.
+(3)Office of Research, Kirk Kerkorian School of Medicine at University of 
+Nevada, Las Vegas, NV, USA.
+(4)Department of Medical Education and Office of Academic Affairs, Kirk 
+Kerkorian School of Medicine at University of Nevada, Las Vegas, NV, USA.
+(5)Department of Pulmonary and Critical Care Medicine, Kirk Kerkorian School of 
+Medicine at University of Nevada, Las Vegas, NV, USA.
+
+Vaccination against Coronavirus disease 2019 (COVID-19) has been the cornerstone 
+of reducing morbidity and mortality of this disease, as it has been shown to 
+decrease the risk of viral transmission, severity of disease, hospitalization, 
+and intubation. However, true understanding of its impact is skewed by 
+heterogeneous vaccine administration due to lack of equitable access, vaccine 
+hesitancy, and varying social determinants of health. Therefore, this study aims 
+to identify groups that are less likely to be vaccinated and understand whether 
+the resultant differences in vaccination rates affect morbidity and mortality in 
+socially marginalized COVID-19 patients. A retrospective cohort analysis was 
+performed on a randomized and stratified population of 939 COVID-19 patients 
+from January 2021 to December 2021. Bivariate analysis and logistic regression 
+were used to assess demographic and clinical characteristic trends in 
+unvaccinated, partially vaccinated, and fully vaccinated groups. No one age (P = 
+.21), gender (P = .9), race (P = .12), ethnicity (P = .09), or health insurance 
+status (P = .13) group was more vaccinated than the other. Similarly, no 
+subgroup was at increased odds of intubation (P = .08) or death. However, 
+patients with all categories of comorbidities including cardiopulmonary disease 
+(P = <.001, effect size .17), renal disease (P = <.001, effect size 0.138), 
+metabolic disease (P = .04), and immunocompromised (P = .01) states were found 
+to have significantly higher vaccination rates. Our study also shows that full 
+vaccination protects against mortality and decreases the odds of intubation by 
+55% (adjusted odds ratio = 0.453, P value = .015) compared to no vaccination or 
+partial vaccination. Findings from this study show an encouraging trend that 
+sicker patients had higher rates of vaccination against COVID-19. This trend 
+highlights the need for further identification of motivators that may be applied 
+to vaccine-hesitant populations, which can help guide population-level policy, 
+increase vaccination campaign yield, and reach for health equity.
+
+Copyright © 2023 the Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/MD.0000000000035421
+PMCID: PMC10553062
+PMID: 37800810 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no funding and conflicts of 
+interest to disclose.
+
+
+21. Medicine (Baltimore). 2023 Oct 6;102(40):e35314. doi: 
+10.1097/MD.0000000000035314.
+
+Adherence to visual field examination in glaucoma patients during the 
+Coronavirus disease 2019 outbreak.
+
+Chang PY(1)(2)(3)(4), Wang YH(1), Wang JY(2)(5), Wang JK(1)(3)(4).
+
+Author information:
+(1)Department of Ophthalmology, Far Eastern Memorial Hospital, Ban-Chiao, New 
+Taipei City, Taiwan.
+(2)Department of Healthcare Administration, Asia University, Taichung, Taiwan, 
+Republic of China.
+(3)Department of Medicine, National Taiwan University Hospital, Taipei, Taiwan.
+(4)Department of Electrical Engineering, Yuan Ze University, Taoyuan City, 
+Taiwan.
+(5)Department of Medical Research, China Medical University Hospital, China 
+Medical University, Taichung, Taiwan, Republic of China.
+
+We described the proportion of adherence to the scheduled visual field (VF) 
+examination and the associated factors in glaucoma patients in a tertiary 
+referral center during the Coronavirus disease 2019 (COVID-19) outbreak in 
+Taiwan. Patients with scheduled VF examinations during May 25th to July 12th, 
+2021, were retrospectively evaluated. Clinical characteristics including type of 
+glaucoma, intraocular pressure (IOP) at the day of arranging VF examinations, 
+prescriptions of anti-glaucoma medications, non-medical glaucoma treatment, 
+length of glaucoma history, mean deviation (MD) of VF defect, and announcement 
+of glaucoma progression were recorded. The associations between the adherence 
+and the clinical factors were analyzed by univariate and multivariate logistic 
+regression. There were 204 patients included, of which 37 patients (18.14%) 
+adhered to VF examinations. A total of 161 patients (78.9%) were diagnosed with 
+open-angle glaucoma (OAG), 27 patients (13.2%) with angle closure glaucoma, and 
+16 patients (7.8%) with glaucoma suspect. Most of the participants (41.2%) had 
+mild VF defect and had been prescribed with no more than 1 bottle of 
+anti-glaucoma medication. In the multivariate analysis, diagnosis of glaucoma 
+suspect (P = .02) and history of SLT (P = .04) were significantly associated 
+with better adherence. Glaucoma severity and the announcement of glaucoma 
+progression were not significantly associated with adherence to VF examination. 
+The COVID-19 pandemic had greatly influenced the adherence to VF examination in 
+glaucoma patients. This study demonstrated that patients with the diagnosis of 
+glaucoma suspect and history of SLT were more likely to adhere to VF 
+examinations even during the COVID-19 pandemic.
+
+Copyright © 2023 the Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/MD.0000000000035314
+PMCID: PMC10553118
+PMID: 37800774 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+disclose.
+
+
+22. Medicine (Baltimore). 2023 Oct 6;102(40):e35437. doi: 
+10.1097/MD.0000000000035437.
+
+The prevalence and risk factors of functional dyspepsia among adults in low- and 
+middle-income countries: An international cross-sectional study.
+
+Arnaout AY(1), Alhejazi TJ(1), Nerabani Y(1), Hamdan O(1), Arnaout K(1), Arnaout 
+I(1), Aljarad Z(2); PRIBS Study Team.
+
+Author information:
+(1)Faculty of Medicine, University of Aleppo, Aleppo, Syrian Arab Republic.
+(2)MD, MSc, PhD Gastroenterologist, University of Aleppo, Aleppo, Syrian Arab 
+Republic.
+
+Dyspepsia is one of the most common chronic digestive diseases, which is due to 
+underlying organic causes that can be detected, or causes that cannot be 
+detected called functional dyspepsia (FD). There is no epidemiological study to 
+date that measures the prevalence and risk factors of the FD in low- and 
+middle-income countries, so this international cross-sectional study was 
+conducted in 15 low- and middle-income countries from data previously published 
+its protocol NCT05340400. Participants were recruited in the period from 
+22/April/2022 to 14/June/2022. The diagnosis of the FD was according to clinical 
+manifestations. We determined the physical activity, daily stress, and fatigue 
+of the participants. A large number of collaborators were chosen from different 
+regions and institutions within each country to achieve diversity within the 
+sample and reduce the probability of bias. Our study concluded that the 
+prevalence of FD is much higher in low- and middle-income countries 37.9% 
+[6.2%-44.2%], compared to high-income countries 10% [8%-12%], with a higher rate 
+among the Afro-Caribbean race 47.9%. Sudan obtained the highest prevalence 
+44.3%, then Egypt 41.4%, while the lowest prevalence was in Algeria 25.7%. 
+Moreover, there are many risk factors, including modifiable ones, such as severe 
+stress, chronic fatigue, smoking, abnormal BMI, insufficient or too many hours 
+of sleep, and previous infection with Covid-19, and non-modifiable ones such as 
+advanced age, chronic diseases, and female sex. Highlighting the prevalence and 
+increasing risk factors of FD in low- and middle-income countries should draw 
+the attention of those responsible for health care in these countries and reduce 
+the risk factors.
+
+Copyright © 2023 the Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/MD.0000000000035437
+PMCID: PMC10553146
+PMID: 37800762 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no funding and conflicts of 
+interest to disclose.
+
+
+23. Creat Nurs. 2023 May;29(2):187-191. doi: 10.1177/10784535231195432.
+
+Ethical Considerations of Replacing Clinical Hours With Simulation in 
+Undergraduate Nursing Education: Means to an End, or an End in Itself?
+
+Sadd R(1).
+
+Author information:
+(1)Te Pūkenga - Toi Ohomai Institute of Technology, Tauranga, New Zealand.
+
+In the current health-care environment, undergraduate nursing programs are 
+expected to provide high-quality clinical experiences for students despite 
+increasing difficulty accessing clinical placements. Expectations for newly 
+graduated nurses have increased in the last few years, with an emphasis on 
+"work-ready" graduates. At the same time, the availability of a variety of 
+clinical practicum placements has decreased in some areas, increasing the 
+difficulty of meeting the increasing numbers of nursing students required for 
+future workforce planning, a situation exacerbated by the ongoing COVID-19 
+global pandemic. Nursing educators are caught between industry requirements for 
+clinically prepared students and the regulatory requirements of their 
+educational institutions. One solution being espoused internationally is 
+substituting simulation for clinical practicum hours. Simulation offers many 
+advantages, especially for patient safety, providing students with opportunities 
+to link theory to practice in a controlled environment. This article discusses 
+the ethical considerations of substituting simulation for clinical hours in 
+undergraduate nursing education. Is this substitution justified as a means to an 
+end or an end in itself?
+
+DOI: 10.1177/10784535231195432
+PMID: 37800741 [Indexed for MEDLINE]
+
+
+24. Creat Nurs. 2023 May;29(2):204-210. doi: 10.1177/10784535231195482.
+
+Use of the Virtual Environment as a Strategy for Disseminating Information 
+during the COVID-19 Pandemic.
+
+Corbo LN(1)(2), Marcossi M(1), Okano L(1), de Avila MAG(3), de Fátima Bimbatti 
+K(1), Kaeppler C(4), Faleiros F(1).
+
+Author information:
+(1)Universidade de São Paulo Escola de Enfermagem de Ribeirão Preto, São Paulo, 
+Brazil.
+(2)Universidade de São Paulo Escola de Enfermagem de Ribeirão Preto, Ribeirao 
+Preto, Brazil.
+(3)Universidade Estadual Paulista Júlio de Mesquita Filho Câmpus de Botucatu 
+Faculdade de Medicina, Nursing, Damião Pinheiro Machado, São Paulo, Brazil.
+(4)TU Dortmund University Faculty of Rehabilitation Sciences, Dortmund, Germany.
+
+Background: The virtual environment has democratized information and research in 
+the health area, especially during the coronavirus disease 2019 (COVID-19) 
+pandemic. Purpose: This study analyzed the boosting strategies of social 
+networks and identified the most accessed posts from a previously developed and 
+validated information portal aimed at people with disabilities. Methods: This 
+quantitative, cross-sectional, descriptive, exploratory study used Google 
+Analytics® to collect data on origins and access numbers; boost data were 
+obtained from the Facebook® and Instagram® networks themselves, after the end of 
+each boost. Conclusions: Greater interest in publications related to the 
+acquisition of rights for persons with disabilities and about COVID-19 was 
+identified. The virtual environment, especially social networks in Brazil, 
+proved to be a useful tool for disseminating information during the COVID-19 
+pandemic, highlighting the importance of boosting access to health information. 
+In addition, the investment in social networks was relevant due to the increase 
+in the number of followers on the page. Implications for Practice: Social 
+networks can be a valuable means of disseminating research, improving access to 
+information based on scientific evidence in an inclusive way.
+
+DOI: 10.1177/10784535231195482
+PMID: 37800730 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Conflicting InterestsThe authors 
+declared no potential conflicts of interest with respect to the research, 
+authorship, and/or publication of this article.
+
+
+25. Psychiatr Danub. 2023 Oct;35(Suppl 2):308-312.
+
+How to Improve Collaboration Between General Practitioners and Clinical 
+Psychologists for Their Patients' Common Mental Health Problems in Primary Care 
+Context?
+
+Lepièce B(1), Smith HF, Zdanowicz N, Dubois T, Patigny P.
+
+Author information:
+(1)Université Catholique de Louvain, CHU-UCL Namur, Psychosomatic Department, 
+Avenue Dr G. Therasse, 1, B-5530 Yvoir, Belgium, brice.lepiece@uclouvain.be.
+
+BACKGROUND: Mental health problems have become a major topic of public health 
+these last years, particularly since the pandemic of COVID-19. Primary care 
+givers are confronted with high rates of common mental health problems (CMHPs) 
+in population. This questions healthcare organization and specifically 
+collaboration between general practitioners (GPs) and clinical psychologists 
+(CPs). In this paper we aim to review recent literature to identify factors that 
+facilitate or hinder collaboration between GPs and CPs when caring for their 
+patients' CMHPs.
+METHODS: A non-systematic qualitative literature review was performed, using the 
+PRISMA method. We restricted the review to papers published between 2010 and 
+2023.
+RESULTS: We identified 52 papers and after filtering, only 6 were included in 
+the synthesis. Six main themes were identified: barriers to interprofessional 
+collaboration, lack of mutual trust, mutual dissatisfaction with information 
+exchanged, the paradox of professional secrecy, the necessity of a paradigm 
+shift, and conceptual frameworks of collaboration. These themes were discussed 
+to improve collaboration between GPs and CPs.
+CONCLUSION: This work provides some recommendations to support the development 
+of interprofessional collaboration between GPs and CPs in primary care.
+
+PMID: 37800246 [Indexed for MEDLINE]
+
+
+26. Psychiatr Danub. 2023 Oct;35(Suppl 2):296-301.
+
+Comparison of Anxiety and Depression Rates in Russian Health Care Professionals 
+in 2020 and 2023.
+
+Syunyakov T(1), Zorkina Y, Ochneva A, Abramova O, Savenkova V, Alekseeva P, 
+Shchelkanova I, Goncharova A, Alekseenko I, Karpenko O, Kostyuk G, Morozova A.
+
+Author information:
+(1)Republican Specialized Scientific-Practical Medical Center of Mental Health, 
+1 Orom street, 111200, Salar village, Kibray district, Tashkent, Uzbekistan, 
+sjunja@gmail.com.
+
+BACKGROUND: The COVID-19 pandemic had a significant impact on the mental health 
+of medical personnel worldwide, leading to increased levels of anxiety and 
+depression. This study aimed to compare anxiety and depression levels among 
+healthcare workers during the initial wave of the pandemic in April-May 2020 and 
+the post-pandemic period in January-May 2023 in Russia.
+METHODS: Data from two similar surveys conducted during the respective periods 
+were combined, and a case-control matching approach was used to ensure 
+compatibility between the two samples. The Hospital Anxiety and Depression Scale 
+(HADS) was used to assess anxiety and depression levels.
+RESULTS: The mean total score for Anxiety subscale in 2020 was 4.126 
+(SD = 3.042), and in 2023 it increased to 6.632 (SD = 4.132) (F=20.751, df (1, 
+172), p<0.001, η2p=0.108). Similarly, the mean total score for Depression 
+subscale increased from 3.253 (SD = 2.616) in 2020 to 4.115 (SD = 2.939) in 2023 
+(F=4.177, df (1, 172), p=0.043, η2p=0.024). The proportion of healthcare workers 
+with higher-than-normal levels of anxiety increased from 16.09% in 2020 to 
+39.08% in 2023, whereas the effect size for depression remained negligible. The 
+increase in anxiety severity was contrary to previous longitudinal studies 
+showing a decrease in anxiety and depression levels after an initial increase 
+during the pandemic.
+CONCLUSION: The increase in anxiety and depression levels in healthcare workers 
+in 2023 may be attributed to other factors like "special military operation" in 
+Ukraine, sanctions, and announcement of partial mobilization in September 2022. 
+These factors could be perceived as more serious adverse factors, leading to 
+increased anxiety levels.
+
+PMID: 37800244 [Indexed for MEDLINE]
+
+
+27. Psychiatr Danub. 2023 Oct;35(Suppl 2):292-295.
+
+The Emotional Impact on Mental Health Workers in the Care of Patients with 
+Mental Disorders in the Pandemic and Post COVID-19 Pandemic: a Measure of 
+"Burnout" and "Compassion Fatigue".
+
+Vacca A(1), Minò MV, Longo R, Lucisani G, Solomita B, Franza F.
+
+Author information:
+(1)Mental Health Department, ASL TA, Via Piemonte, 51, 72022 Latiano, Italy, 
+antonellavacca@yahoo.com.
+
+BACKGROUND: Emotional pressure, fear, and uncertainties affected healthcare 
+workers (HCWs) who played a significant role during the COVID-19 pandemic. After 
+the pandemic crisis, the consequences on the health of mental HealhCare Workers 
+are still significant. Our work aimed to evaluate burnout and compassion fatigue 
+in HCWs.
+METHOD: In our observational study, 102 (65 females, 37 males) mental HCWs were 
+evaluated during and post-COVID-19 pandemic. We used the Compassion 
+Fatigue-Short Scale, Balanced Emotional Empathy Scale, and Beck Depression 
+Inventory.
+RESULTS: Subscale Secondary Trauma Stress of CF-SS demonstrated an increase in 
+the rate in the post-pandemic phase (24.51% in all HCWs). The percentage reached 
+in males was high (37.84%). Instead, the levels of Job Burnout remained constant 
+in the two periods analyzed (during and post-COVID-19). Depressive symptoms 
+remained constant with a prevalence in females of the post-COVID period.
+CONCLUSION: The results confirm increased stress secondary to the traumatic 
+event, while the levels of job burnout are high. Closely associated with 
+compassion fatigue are levels of empathy that were found to be unchanged.
+
+PMID: 37800243 [Indexed for MEDLINE]
+
+
+28. Psychiatr Danub. 2023 Oct;35(Suppl 2):282-286.
+
+COVID, the Main Cause of Mysery of Teenager? Retrospective Study of 
+Hospitalizations of 15-25 in Psychosomatics (2018-2022).
+
+Jassogne C(1), Meunier P, Jacques D, Dubois T, Zdanowicz N.
+
+Author information:
+(1)Université Catholique de Louvain, Psychosomatics Unit, Mont-Godinne 
+University Hospital, Rue Dr Gaston Therasse 1, 5530 Yvoir, Belgium, 
+carole.jassogne@chuuclnamur.uclouvain.be.
+
+BACKGROUND: Since the outbreak of COVID-19, there has been an apparent increase 
+in the utilization of mental health services and psychiatric disorders among 
+youth. However, there is little data on youth mental health prior to the 
+pandemic. Some authors suggest that the increase in the use of psychiatric care 
+started before. Are we facing a recent phenomenon initiated by the pandemic that 
+will disappear with it, or did it highlight an older issue? Have the profiles of 
+the young people and the care provided changed since the pandemic?
+SUBJECTS AND METHODS: Retrospective study of the hospitalization records of 
+patients aged 15 to 25. The inclusion period extends from January 1, 2018, to 
+December 31, 2022.
+RESULTS: There was an increase in the number of young people hospitalized from 
+September 2020 to February 2021, suggesting a delayed effect of Covid's impact. 
+44% of young people were hospitalized through emergency services, number that 
+has increased. There has been an increase in prior psychiatric care and 
+hospitalizations among patients hospitalized since the beginning of the 
+pandemic. 49% attribute their condition to family issues. Upon discharge, many 
+patients were on medication, but there has been no significant change in 
+prescriptions since the pandemic began. The majority of patients were referred 
+to their primary care physician, psychologist, and psychiatrist, which has not 
+changed since the pandemic began.
+CONCLUSIONS: Apart from the increase in hospitalizations, the rest of the 
+practices within the institution has remained unchanged, suggesting that there 
+are few differences in issues brought by patients since the start of the 
+pandemic. Difficulties related to the family environment remain the primary 
+reason for hospitalization requests. We do not have clear evidence of a 
+worsening situation, which tends to support the hypothesis that COVID-19 has 
+been a catalyst for a pre-existing state.
+
+PMID: 37800241 [Indexed for MEDLINE]
+
+
+29. Psychiatr Danub. 2023 Oct;35(Suppl 2):266-270.
+
+Stress Work and Hopelessness in Mental Health Workers/Caregivers: an 
+Observational Study in Pandemic and Post COVID-19 Pandemic.
+
+Minò MV(1), Vacca A, Longo R, Lucisani G, Solomita B, Franza F.
+
+Author information:
+(1)Psychiatric Rehabilitation Center "Don Tonino Bello" - Assoc. M.I.T.A.G. - 
+Onlus, Via Venezia, 1, 72 019 San Vito dei Normanni, Brindisi, Italy, 
+marenza.m@virgilio.it.
+
+BACKGROUND: WHO has decreed an end to the pandemic crisis from COVID-19. 
+However, the consequences of stress, compassion fatigue, and healthcare workers' 
+expectations are still evident. Also, the hope of ending the problems associated 
+with the pandemic is still present, although the awareness of maintaining a high 
+level of attention is current in the HCWs.
+METHOD: In our observational study, 102 (65 females, 37 males) mental healthcare 
+workers were evaluated during and post-COVID-19 pandemic. They were divided into 
+different categories of workers: nurses, physicians, psychologists, social 
+assistants, social educators, social health workers, and psychiatric 
+rehabilitation technicians. We used the ProQoL for compassion fatigue, 
+compassion satisfaction, and burnout; BHS for hopelessness.
+RESULTS: ProQoL data showed a significant increase in compassion satisfaction in 
+post-pandemic (p=0.002) in all professional workers. The same results in burnout 
+and secondary stress subscales (respectively, p=0.018, p=0.000) are evident. The 
+BHS total score indicated that the difference between T0 vs. T1 was not 
+statistically significant (p=0.109).
+CONCLUSIONS: The collected data during and post-COVID-19 pandemic showed reduced 
+burnout and compassion fatigue in the helping professions. However, in the 
+periods analyzed, no changes in hope are observed.
+
+PMID: 37800239 [Indexed for MEDLINE]
+
+
+30. Psychiatr Danub. 2023 Oct;35(Suppl 2):263-265.
+
+Adolescents and the Consequences of COVID-19.
+
+Juli MR(1), Juli R, Juli G, Juli L.
+
+Author information:
+(1)Psychotherapist, Specialist in Alimentary Behaviour Disorders, Department of 
+Surgery and Medical Sciences, University "Magna Graecia", Catanzaro, Italy, 
+dottmariarosaria.juli@gmail.com.
+
+In the pandemic period due to the strong restrictions made necessary to deal 
+with the spread of the Sars COVID-19 Virus, adolescents were the subjects who, 
+most of all, suffered from isolation and lack of sociality, due to social 
+distancing. It was necessary to change their habits, their lifestyles, the way 
+they live social relationships and relate to others. Furthermore, those of them 
+who were facing health difficulties at the time were faced with the 
+impossibility of the services to guarantee safety conditions, so that in most 
+cases many medical, psychiatric and psychological activities were suspended, 
+with hospitalizations postponed to a date to be defined, appointments canceled 
+with a high risk of losing contact with the patient. Many authors agreed, right 
+from the start, that the pandemic consequences would have focused above all on 
+psychological problems. The scientific literature on past pandemics had shown 
+the role of fear, anxiety, stress and depression and its negative psychosocial 
+consequences on the quality of life of the population. Samantha Brooks and 
+colleagues from King's College London reviewed 24 studies on the psychological 
+impact of quarantine and highlighted negative psychological effects including 
+symptoms of post-traumatic stress, confusion and anger. Today there are many 
+contributions in the literature which unfortunately confirm what has been 
+hypothesized.
+
+PMID: 37800238 [Indexed for MEDLINE]
+
+
+31. Psychiatr Danub. 2023 Oct;35(Suppl 2):249-255.
+
+The Urge to Splurge in Time of COVID-19: Emotional Spending, Revenge Buying and 
+Compulsive Shopping.
+
+Naviaux AF(1), Janne P.
+
+Author information:
+(1)College of Psychiatrists of Ireland and Health Service Executive (HSE) 
+Summerhill Community Mental Health Service, Summerhill, Wexford, Y35 KC58, 
+Ireland, annefrederique.naviaux@hse.ie.
+
+BACKGROUND: Shopping is a reality for all of us; it can also be a pleasure or a 
+source of problem, depending on the psychology behind it and our decision 
+making. Furthermore, our spending patterns were seriously shaken and impacted by 
+the COVID pandemic; restrictions, safety measures and lockdown generated changes 
+in the way we buy. So, what has changed and why?
+SUBJECTS AND METHODS: Between January 2023 and May 2023, a literature search 
+based on electronic bibliographic databases as well as other sources of 
+information (grey literature) was conducted in order to investigate the most 
+recent data on shopping habits and especially how they were impacted by the 
+COVID-19 pandemic.
+RESULTS: Various shopping behaviors observed post COVID, such as the urge to 
+splurge, emotional spending, revenge buying and problematic shopping behavior, 
+can be read and explained via psychology. Customers's socio-demographic 
+characteristics play considerable roles in new buying patterns, but some general 
+changes show that online shopping and contactless payment have certainly 
+increased, consumers are more aware of their spending habits, looking for value 
+first and not remaining loyal to brand, homebody economy has risen and money is 
+rather spent on domestic tourism instead of foreign holidays.
+CONCLUSIONS: A lot of buying habits have changed during COVID-19 and many of 
+these modifications will remain in a post pandemic world. If many consumers 
+gained some insight in their spending behaviors and are looking for durability 
+and sustainability as preferred choices, luxury products will always attract 
+clients. Shopping being emotionally driven, money should rather been spent on 
+experiences (rather than things) and on others (rather than ourselves) in order 
+to make happy.
+
+PMID: 37800236 [Indexed for MEDLINE]
+
+
+32. Psychiatr Danub. 2023 Oct;35(Suppl 2):128-131.
+
+Negative Symptoms and Cognitive Deficits in Primary Psychoses: an Observational 
+Study in a Psychiatric Rehabilitation Centre.
+
+Franza F(1), De Paola A, Papa F, Franza A, Solomita B, Tavormina G.
+
+Author information:
+(1)Rehabilitation Center "Villa dei Pini", 83100 Avellino, Italy, 
+francescofranza60@gmail.com.
+
+Negative symptoms (NSs) and cognitive deficits (CDs) negatively affect patients' 
+quality of life with primary psychosis. Our observational study evaluated the 
+percentage of NSs in a group of inpatients of a psychiatric rehabilitation 
+facility and the variation of the interaction with CDs during the COVID-19 
+pandemic. The results showed a significant correlation between NSs and CDs in 
+the first observation period (PANSS - FSNS p=0.001; BNSS p=0.023; Epitrack 
+p=0.00) and a stabilization of the results between the first and second 
+observation periods (PANSS - FSNS: p=0.094; BNSS p=0.466; Epitrack p=0.026).
+
+PMID: 37800214 [Indexed for MEDLINE]
+
+
+33. Front Immunol. 2023 Sep 18;14:1241153. doi: 10.3389/fimmu.2023.1241153. 
+eCollection 2023.
+
+Safety and immunogenicity of a modified Omicron-adapted inactivated vaccine in 
+healthy adults: a randomized, double-blind, active-controlled Phase III clinical 
+trial.
+
+Hu J(1), Liu Y(2), Liu S(3), Shu Q(4), Yang X(3), Chu K(1), Qiao Y(3), Hu Y(5), 
+Wang K(2), Pan H(1).
+
+Author information:
+(1)Department of Vaccine Clinical Evaluation, Jiangsu Provincial Center for 
+Disease Control and Prevention, Nanjing, Jiangsu, China.
+(2)Division of Respiratory Virus Vaccines, Institute for Biological Product 
+Control, National Institutes for Food and Drug Control, Beijing, China.
+(3)Clinical Research and Development Center, Sinovac Biotech Co., Ltd., Beijing, 
+China.
+(4)Statistics and Decision Science, Beijing Key Tech Statistics Technology Co., 
+Ltd., Beijing, China.
+(5)Center of Research and Development, Sinovac Life Sciences Co., Ltd., Beijing, 
+China.
+
+BACKGROUND: Updated vaccine strategies are needed to protect against new 
+SARS-CoV-2 variants with increased immune escape. Here, information on the 
+safety and immunogenicity of an inactivated Omicron-adapted vaccine is 
+presented, as compared with CoronaVac.
+METHODS: A randomized, double-blind, active-controlled, phase III clinical trial 
+was conducted to compare a modified Omicron-adapted vaccine (Omicron vaccine) 
+with the authorized prototype vaccine (CoronaVac®) as a booster dose. Healthy 
+adults aged ≥18 years, who have previously received 2 or 3 doses of CoronaVac 
+(2C or 3C cohort) at least 6 months before, were enrolled to get a booster dose 
+of Omicron vaccine or CoronaVac in a ratio of 2:1 (2C/3C+1O/1C). Back-up serums 
+after two initial doses of CoronaVac (2C+0) for adults aged 26-45 years were 
+collected from a previous study. Immunogenicity and safety data at 28 days after 
+vaccination were collected and analyzed. One of the primary objectives was to 
+evaluate the superiority of immunogenicity of Omicron vaccine booster against 
+Omicron BA.1, compared with CoronaVac booster against BA.1. Another objective 
+was to evaluate the non-inferiority of immunogenicity of Omicron vaccine booster 
+against BA.1, compared with two initial doses of CoronaVac against ancestral 
+strain.
+RESULTS: Between June 1st and July 21st, 2022, a total of 1,500 healthy adults 
+were enrolled. Results show that all pre-specified superiority criteria for BA.1 
+neutralizing antibody were met. Specifically, within the 3C cohort (3C+1O vs. 
+3C+1C), the geometric mean titers' (GMT) ratio and 95% confidence interval (CI) 
+was 1.64 (1.42, 1.89), with the lower 95%CI ≥1; a GMT ratio of 1.84 (1.57, 2.16) 
+was observed for 2C+1O versus 3C+1C. For seroconversion rate, the lower 95%CIs 
+of differences between immuno-comparative groups (2/3C+1O vs. 3C+1C) were all 
+above the superiority criterion 0%. However, the non-inferiority criterion of 
+the lower 95%CI of GMT ratio ≥2/3 was unfulfilled for 2C/3C+1O against BA.1 
+versus 2C+0 against ancestral strain. Safety profiles were similar between 
+groups, with no safety concerns identified.
+CONCLUSION: The Omicron-adapted vaccine was well-tolerated and could elicit 
+superior immune responses as compared with CoronaVac against Omicron, while it 
+appeared inferior to CoronaVac against ancestral strain.
+CLINICAL TRIAL REGISTRATION: 
+https://classic.clinicaltrials.gov/ct2/show/NCT05381350?term=NCT05381350&draw=2&rank=1, 
+identifier NCT05381350.
+
+Copyright © 2023 Hu, Liu, Liu, Shu, Yang, Chu, Qiao, Hu, Wang and Pan.
+
+DOI: 10.3389/fimmu.2023.1241153
+PMCID: PMC10548824
+PMID: 37799724 [Indexed for MEDLINE]
+
+Conflict of interest statement: YH is current employee of Sinovac Life Sciences 
+Co., Ltd. SL, XY, and YQ are current employees of Sinovac Biotech Co., Ltd. Both 
+companies are subsidiaries of Sinovac holdings. QS is a current employee of 
+Beijing Key Tech Statistics Technology Co., Ltd. The remaining authors declare 
+that the research was conducted in the absence of any commercial or financial 
+relationships that could be construed as a potential conflict of interest. The 
+authors declare that this study received funding from Sinovac Life Sciences Co., 
+Ltd., Beijing, China. The funder had the following involvement in the study: 
+study design, interpretation of data, the writing of this article or the 
+decision to submit it for publication.
+
+
+34. Front Immunol. 2023 Sep 18;14:1231087. doi: 10.3389/fimmu.2023.1231087. 
+eCollection 2023.
+
+Distinct SARS-CoV-2 specific NLRP3 and IL-1β responses in T cells of aging 
+patients during acute COVID-19 infection.
+
+Mahalingam SS(1), Jayaraman S(1), Arunkumar A(1), Dudley HM(2), Anthony 
+DD(3)(4)(5)(6), Shive CL(3)(4), Jacobson JM(5)(6), Pandiyan P(1)(3)(5).
+
+Author information:
+(1)Department of Biological Sciences, School of Dental Medicine, Case Western 
+Reserve University, Cleveland, OH, United States.
+(2)Department of Molecular Biology and Microbiology, School of Medicine, Case 
+Western Reserve University, Cleveland, OH, United States.
+(3)Department of Rheumatology, Louis Stokes Cleveland Veterans Affairs Medical 
+Center, Cleveland, OH, United States.
+(4)Department of Pathology, Case Western Reserve University, Cleveland, OH, 
+United States.
+(5)Center for AIDS Research, School of Medicine, Case Western Reserve 
+University, Cleveland, OH, United States.
+(6)Department of Medicine, School of Medicine, University Hospitals, Case 
+Western Reserve University, Cleveland, OH, United States.
+
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) causes Coronavirus 
+Disease 2019 (COVID-19) that presents with varied clinical manifestations 
+ranging from asymptomatic or mild infections and pneumonia to severe cases 
+associated with cytokine storm, acute respiratory distress syndrome (ARDS), and 
+even death. The underlying mechanisms contributing to these differences are 
+unclear, although exacerbated inflammatory sequelae resulting from infection 
+have been implicated. While advanced aging is a known risk factor, the precise 
+immune parameters that determine the outcome of SARS-CoV-2 infection in elderly 
+individuals are not understood. Here, we found aging-associated (age ≥61) 
+intrinsic changes in T cell responses when compared to those from individuals 
+aged ≤ 60, even among COVID-positive patients with mild symptoms. Specifically, 
+when stimulated with SARS-CoV-2 peptides in vitro, peripheral blood mononuclear 
+cell (PBMC) CD4+ and CD8+ T cells from individuals aged ≥61 showed a diminished 
+capacity to produce IFN-γ and IL-1β. Although they did not have severe disease, 
+aged individuals also showed a higher frequency of PD-1+ cells and significantly 
+diminished IFN-γ/PD-1 ratios among T lymphocytes upon SARS-CoV-2 peptide 
+stimulation. Impaired T cell IL-1β expression coincided with reduced NLRP3 
+levels in T lymphocytes. However, the expression of these molecules was not 
+affected in the monocytes of individuals aged ≥61. Together, these data reveal 
+SARS-CoV-2-specific CD4+ and CD8+ T-cell intrinsic cytokine alterations in the 
+individuals older than 61 and may provide new insights into dysregulated 
+COVID-directed immune responses in the elderly.
+
+Copyright © 2023 Mahalingam, Jayaraman, Arunkumar, Dudley, Anthony, Shive, 
+Jacobson and Pandiyan.
+
+DOI: 10.3389/fimmu.2023.1231087
+PMCID: PMC10548880
+PMID: 37799713 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+35. Front Public Health. 2023 Sep 20;11:1103133. doi: 10.3389/fpubh.2023.1103133.
+ eCollection 2023.
+
+Seroprevalence survey of SARS-CoV-2, community behaviors, and practices in 
+Kansanshi and Kalumbila mining towns.
+
+Mumba TK(1), Merwe KV(1), Divall M(1), Mwangilwa K(2), Kayeyi N(2).
+
+Author information:
+(1)Health and Wellness, First Quantum Minerals Limited, Solwezi, Northwestern, 
+Zambia.
+(2)Zambia National Public Health Institute, Surveillance Disease and 
+Intelligency Cluster, Lusaka, Zambia.
+
+BACKGROUND: Coronavirus disease 2019 (SARS-CoV-2) was declared a global pandemic 
+by WHO after it spreads quickly around the world from its source city in Wuhan. 
+Africa has some of the lowest documented SARS-CoV-2 incidences globally, with 
+over 9 million confirmed cases as of December 2022. This may be due to efficient 
+mitigation, outbreak response, or demographic traits. Surveillance capability 
+may have suffered as nations changed funding, regulations, and testing plans. 
+Therefore, this study was to document the prevalence of SARS-CoV-2, its 
+characteristics, and the socio-economic characteristics in the two mining 
+districts of Solwezi and Kalumbila of Zambia.
+METHODS: Between 28 March and 26 April 2021, a cross-sectional cluster-sample 
+survey of households in two mining districts of Zambia was conducted. Twenty 
+standard enumeration areas (SEAs) were randomly selected in Kansanshi (17 SEA) 
+and Kalumbila (3 SEA) from a total of 67 SEA that encompass the two mines. 
+Members of households aged <5 years were not eligible to participate in the 
+survey. All participants that consented to participate in the interview were 
+also asked to consent to test for SARS-CoV-2 infection using a rapid diagnostic 
+test (RDT), which tested for recent infection and past exposure to the virus 
+(IgM and IgG, respectively).
+RESULT: Out of the total sample of 3,047 that were present for the interview, 
+622 of them agreed to test for COVID-19. Of the total that tested for 
+SARS-CoV-2, 2.6% were IgM positive while 9.0% were IgG positive. Despite the 
+above results, 1,586 participants that agreed to the interview indicated a low 
+self-risk assessment of getting COVID-19 (46.5%) or someone (45.5%). On the 
+public health measures, participants who did handwashing more than usual 
+(65.0%), not hand sanitizing more than usual (69.0%), not disinfecting surfaces 
+in their households than usual (87.5%), not avoiding drinking from bars or 
+nightclubs (90.6%), and not wearing a mask when out in public places (71.1%). In 
+the logistic multivariable model, participants with age 24 years and above (AOR 
+= 2.94; 95% CI = 1.10, 7.81) and having experienced symptoms of SARS-CoV-2 (AOR 
+= 2.60; 95% CI: 1.33, 5.05) had a significant effect on testing positive for 
+SARS-CoV-2.
+CONCLUSION: Although the results showed that active COVID-19 prevalence in 
+Solwezi and Kalumbila communities surrounding the two mines was low, exposure to 
+infection was five times high. Government and mining firms should continue to 
+sensitize the community members on the preventive measures of COVID-19 and 
+continue with community testing so that all those positive but without symptoms 
+can self-isolate and those with symptoms and sick can be admitted to the 
+hospital.
+
+Copyright © 2023 Mumba, Merwe, Divall, Mwangilwa and Kayeyi.
+
+DOI: 10.3389/fpubh.2023.1103133
+PMCID: PMC10548386
+PMID: 37799157 [Indexed for MEDLINE]
+
+Conflict of interest statement: KMe and MD were employed by First Quantum 
+Minerals Limited. The remaining authors declare that the research was conducted 
+in the absence of any commercial or financial relationships that could be 
+construed as a potential conflict of interest.
+
+
+36. Front Public Health. 2023 Sep 15;11:1143650. doi: 10.3389/fpubh.2023.1143650.
+ eCollection 2023.
+
+A chronological review of COVID-19 case fatality rate and its secular trend and 
+investigation of all-cause mortality and hospitalization during the Delta and 
+Omicron waves in the United States: a retrospective cohort study.
+
+Li JX(1)(2)(3), Liao PL(4), Wei JC(5)(6)(7)(8), Hsu SB(9)(10), Yeh CJ(11).
+
+Author information:
+(1)Department of Internal Medicine, Taipei Veterans General Hospital, Taipei, 
+Taiwan.
+(2)School of Medicine, China Medical University, Taichung, Taiwan.
+(3)Graduate Institute of Clinical Laboratory Sciences and Medical Biotechnology, 
+National Taiwan University, Taipei, Taiwan.
+(4)Department of Medical Research, Chung Shan Medical University Hospital, 
+Taichung, Taiwan.
+(5)Department of Nursing, Chung Shan Medical University, Taichung, Taiwan.
+(6)Institute of Medicine, Chung Shan Medical University, Taichung, Taiwan.
+(7)Department of Allergy, Immunology & Rheumatology, Chung Shan Medical 
+University Hospital, Taichung, Taiwan.
+(8)Graduate Institute of Integrated Medicine, China Medical University, 
+Taichung, Taiwan.
+(9)College of Medicine, China Medical University, Taichung, Taiwan.
+(10)Department of Nursing, China Medical University Hospital, Taichung, Taiwan.
+(11)Department of Public Health, Chung Shan Medical University, Taichung, 
+Taiwan.
+
+INTRODUCTION: Coronavirus disease 2019 (COVID-19) has caused more than 690 
+million deaths worldwide. Different results concerning the death rates of the 
+Delta and Omicron variants have been recorded. We aimed to assess the secular 
+trend of case fatality rate (CFR), identify risk factors associated with 
+mortality following COVID-19 diagnosis, and investigate the risks of mortality 
+and hospitalization during Delta and Omicron waves in the United States.
+METHODS: This study assessed 2,857,925 individuals diagnosed with COVID-19 in 
+the United States from January 2020, to June 2022. The inclusion criterion was 
+the presence of COVID-19 diagnostic codes in electronic medical record or a 
+positive laboratory test of the SARS-CoV-2. Statistical analysis was bifurcated 
+into two components, longitudinal analysis and comparative analysis. To assess 
+the discrepancies in hospitalization and mortality rates for COVID-19, we 
+identified the prevailing periods for the Delta and Omicron variants.
+RESULTS: Longitudinal analysis demonstrated four sharp surges in the number of 
+deaths and CFR. The CFR was persistently higher in males and older age. The CFR 
+of Black and White remained higher than Asians since January 2022. In 
+comparative analysis, the adjusted hazard ratios for all-cause mortality and 
+hospitalization were higher in Delta wave compared to the Omicron wave. Risk of 
+all-cause mortality was found to be greater 14-30 days after a COVID-19 
+diagnosis, while the likelihood of hospitalization was higher in the first 
+14 days following a COVID-19 diagnosis in Delta wave compared with Omicron wave. 
+Kaplan-Meier analysis revealed the cumulative probability of mortality was 
+approximately 2-fold on day 30 in Delta than in Omicron cases (log-rank 
+p < 0.001). The mortality risk ratio between the Delta and Omicron variants was 
+1.671 (95% Cl 1.615-1.729, log-rank p < 0.001). Delta also had a significantly 
+increased mortality risk over Omicron in all age groups. The CFR of people aged 
+above 80 years was extremely high as 17.33%.
+CONCLUSION: Male sex and age seemed to be strong and independent risk factors of 
+mortality in COVID-19. The Delta variant appears to cause more hospitalization 
+and death than the Omicron variant.
+
+Copyright © 2023 Li, Liao, Wei, Hsu and Yeh.
+
+DOI: 10.3389/fpubh.2023.1143650
+PMCID: PMC10548482
+PMID: 37799149 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+37. Front Public Health. 2023 Sep 20;11:1210327. doi: 10.3389/fpubh.2023.1210327.
+ eCollection 2023.
+
+Predictors of well-being, future anxiety, and multiple recurrent health 
+complaints among university students during the COVID-19 pandemic: the role of 
+socioeconomic determinants, sense of coherence, and digital health literacy. An 
+Italian cross-sectional study.
+
+Lorini C(1)(2), Cavallo G(1)(2), Vettori V(1)(2), Buscemi P(3), Ciardi G(3), 
+Zanobini P(1)(2), Okan O(4), Dadaczynski K(5)(6), Lastrucci V(1)(7), Bonaccorsi 
+G(1)(2).
+
+Author information:
+(1)Department of Health Science, University of Florence, Florence, Italy.
+(2)Health Literacy Laboratory, Department of Health Science, University of 
+Florence, Florence, Italy.
+(3)School of Specialization in Public Health, University of Florence, Florence, 
+Italy.
+(4)Department of Sport and Health Sciences, Technical University Munich, Uptown 
+München-Campus D, Munich, Germany.
+(5)Department of Health Science, Fulda University of Applied Sciences, Fulda, 
+Germany.
+(6)Center for Applied Health Sciences, Leuphana Universitat Lüneburg, Lüneburg, 
+Germany.
+(7)Epidemiology Unit, Meyer Children's University Hospital, Florence, Italy.
+
+The pandemic deeply changed young adults' life. Lockdown period and the social 
+restrictions dramatically affected university students' mental health. The aim 
+of our cross-sectional study was to describe psychological well-being, future 
+anxiety (FA), and health complaints (HCs) in a sample of 3,001 students of the 
+University of Florence in the middle of the first two pandemic waves. We 
+assessed the role of subjective social status, chronic diseases, sense of 
+coherence (SoC), and digital health literacy (DHL) as predictors of 
+psychological well-being, FA, and HCs. Students expressed high levels of FA and 
+reported being disturbed by not being able to achieve their desired future 
+goals. About 40% reported a low or a very low well-being and 19.1% experienced 
+two or more subjective health complaints more than once a week. The likelihood 
+of having a better mental health status significantly increased with increasing 
+SoC and among males. Subjective Social Status proved to be a predictor for FA. 
+Enhancing SoC could improve the health status of the university students during 
+the pandemic and beyond.
+
+Copyright © 2023 Lorini, Cavallo, Vettori, Buscemi, Ciardi, Zanobini, Okan, 
+Dadaczynski, Lastrucci and Bonaccorsi.
+
+DOI: 10.3389/fpubh.2023.1210327
+PMCID: PMC10548390
+PMID: 37799148 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+38. Hum Vaccin Immunother. 2023 Aug;19(2):2263982. doi: 
+10.1080/21645515.2023.2263982. Epub 2023 Oct 6.
+
+ChatGPT and safety of COVID-19 vaccines.
+
+Daungsupawong H(1), Wiwanitkit V(2)(3).
+
+Author information:
+(1)Private Academic Consultant, Phonhong, Lao.
+(2)Chandigarh University, India.
+(3)Joseph Ayo Babalola University, Ikeji-Arakeji, Nigeria.
+
+DOI: 10.1080/21645515.2023.2263982
+PMID: 37799088 [Indexed for MEDLINE]
+
+
+39. Hum Vaccin Immunother. 2023 Aug;19(2):2256047. doi: 
+10.1080/21645515.2023.2256047. Epub 2023 Oct 6.
+
+Hospitalization burden related to herpes zoster infection during the COVID-19 
+pandemic in Spain (2020-2021).
+
+Irigoyen-Mansilla VM(1)(2), Gil-Prieto R(2)(3), Gea-Izquierdo E(2), 
+Barrio-Fernández JL(2), Hernández-Barrera V(2), Gil-de-Miguel A(2)(3).
+
+Author information:
+(1)Preventive Medicine Unit, Infanta Sofia University Hospital, San Sebastián de 
+los Reyes, Spain.
+(2)Department of Medical Specialities and Public Health. Area of Preventive 
+Medicine & Public Health, Rey Juan Carlos University, Madrid, Spain.
+(3)Chair of Evaluation of Health Results, Rey Juan Carlos University, Madrid, 
+Spain.
+
+Varicella-Zoster Virus (VZV) belongs to the family Herpesviridae. Herpes zoster 
+(HZ) is caused by reactivation of latent VZV. It is associated with risk factors 
+such as immunosenescence, immunosuppressive pathologies and pharmacological 
+treatments. Patients with these risk factors are more likely to be hospitalized. 
+Increases in HZ hospitalizations have been reported in many countries in recent 
+years. The objective of this study is to estimate hospitalization rates, 
+mortality rates and costs due to HZ during the worst years of the COVID-19 
+pandemic in Spain (2020-2021). This is a descriptive study based on an analysis 
+of information from the Minimum Basic Dataset and coded according to the Spanish 
+version of the 10th International Classification of Diseases (ICD-10-CM). 
+Hospitalization, mortality and case-fatality rates, and median length of 
+hospitalization were calculated.. The hospitalization rate was 14.4 cases per 
+100,000 inhabitants, and the mortality rate was 1.3 cases per 100,000 
+inhabitants. Both increased considerably with age. In this time period, 92.3% of 
+the registered cases were people over 50 years of age. Nevertheless, during the 
+COVID-19 pandemic period, hospitalization rate decreased and the mortality rate 
+increased from previous years. HZ hospitalization and mortality rates are 
+relevant issues in the public health of older people. It is highly recommended 
+to evaluate new vaccination strategies against VZV to include the HZ vaccine for 
+health care for elderly people, as well as to reduce the disease burden and 
+associated risk factors. The estimation of HZ disease hospitalization costs were 
+€100,433,904.
+
+DOI: 10.1080/21645515.2023.2256047
+PMID: 37799065 [Indexed for MEDLINE]
+
+
+40. Coron Artery Dis. 2023 Nov 1;34(7):470-474. doi:
+10.1097/MCA.0000000000001270.  Epub 2023 Jul 28.
+
+Outcomes of patients with acute coronary syndrome according to COVID-19 
+vaccination status.
+
+Hilu R(1), Abu Ghosh Z(2), Leibowitz D(2), Arow Z(1), Ovdat T(3), Or T(4), Pereg 
+D(1), Alcalai R(2).
+
+Author information:
+(1)Cardiology Department, Meir Medical Center, Kfar-Saba and Sackler Faculty of 
+Medicine, Tel-Aviv University.
+(2)Hadassah Hebrew University Medical Center, Jerusalem.
+(3)The Israeli Center for Cardiovascular Research, Sheba Medical Center, Ramat 
+Gan.
+(4)Cardiology Department, Galilee Medical Center, Nahariya and Azrieli Faculty 
+of Medicine, Bar Ilan University, Safed, Israel.
+
+BACKGROUND: COVID-19 vaccination has been associated with reduced risk of acute 
+coronary syndrome (ACS); however, several studies have reported cardiovascular 
+complications following vaccination. We aimed to investigate the effect of 
+COVID-19 vaccination status on the treatment and outcome of ACS patients.
+METHODS: The study was based on the 2021 Acute Coronary Syndrome Israeli Survey. 
+Patients were stratified into two groups according to COVID-19 vaccination 
+status, vaccinated compared to unvaccinated. Patients who had received at least 
+2 vaccination doses up to 1 week prior to ACS hospitalization were considered 
+vaccinated. The primary endpoint was 1-year all-cause mortality.
+RESULTS: A total of 1261 patients with ACS were included, of whom 990 (78.5%) 
+were vaccinated. Vaccinated patients were older and less frequently smokers. 
+There were no significant differences in coronary reperfusion rates and 
+treatment with guideline-based medical therapy during hospital stay and at 
+discharge. The primary endpoint of 1-year all-cause mortality occurred in 38 
+(3.8%) and 14 (5.2%) patients in the vaccinated and unvaccinated groups 
+respectively (P = 0.42). 30-day MACE occurred in 94 (9.5%) in the vaccinated 
+patients compared to 31 (11.5%) in the unvaccinated group (P = 0.39). These 
+results remained similar following adjustment for confounders.
+CONCLUSION: There was no association between COVID-19 vaccination status and the 
+outcomes of patients with ACS. Our findings provide support for the 
+cardiovascular safety of COVID-19 mRNA vaccines in patients at high 
+cardiovascular risk.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/MCA.0000000000001270
+PMID: 37799043 [Indexed for MEDLINE]
+
+
+41. Int J Behav Nutr Phys Act. 2023 Oct 5;20(1):120. doi: 
+10.1186/s12966-023-01499-x.
+
+The status of active after-school clubs among primary school children in England 
+(UK) after the COVD-19 lockdowns: implications for policy and practice.
+
+Walker R(#)(1)(2), Salway R(#)(3)(4), House D(3)(4), Emm-Collison L(3), Breheny 
+K(4), Sansum K(3), Churchward S(5), Williams JG(4)(6), Vocht F(4)(7), 
+Hollingworth W(4)(7), Jago R(3)(4)(7)(8).
+
+Author information:
+(1)Centre for Exercise, Nutrition & Health Sciences, School for Policy Studies, 
+University of Bristol, Bristol, BS8 ITZ, UK. robert.walker@bristol.ac.uk.
+(2)Population Health Sciences, Bristol Medical School, University of Bristol, 
+Bristol, BS8 2PS, UK. robert.walker@bristol.ac.uk.
+(3)Centre for Exercise, Nutrition & Health Sciences, School for Policy Studies, 
+University of Bristol, Bristol, BS8 ITZ, UK.
+(4)Population Health Sciences, Bristol Medical School, University of Bristol, 
+Bristol, BS8 2PS, UK.
+(5)Independent public member of the project team, Bristol, UK.
+(6)Communities and Public Health, Bristol City Council, Bristol, UK.
+(7)The National Institute for Health Research, Applied Research Collaboration 
+West (NIHR ARC West), University Hospitals Bristol and Weston NHS Foundation 
+Trust and University of Bristol, Bristol, BS1 2NT, UK.
+(8)NIHR Bristol Biomedical Research Centre, University Hospitals Bristol and 
+Weston NHS Foundation Trust and University of Bristol, Bristol, BS8 2BN, UK.
+(#)Contributed equally
+
+BACKGROUND: Children's physical activity in England is more dependent on active 
+clubs after the COVID-19 pandemic. However, it is unclear how the COVID-19 
+pandemic and related cost-of-living crisis have impacted on active club 
+participation, costs and provision. This mixed-methods natural experiment 
+explored school-based and community-based active clubs after lockdowns, using a 
+unique combination of data sources to highlight implications for policy and 
+practice post-COVID-19.
+METHODS: Cross-sectional questionnaire data on school and community active clubs 
+were collected from 10-11-year-old children pre-COVID-19 in 2017-18 (N = 1,296; 
+50 schools), in 2021 (N = 393; 23 schools), and 2022 (N = 463; 27 schools). Club 
+participation and attendance frequency were modelled using logistic and Poisson 
+mixed effects models, adjusted for child age, gender and household education. In 
+2021 and 2022, parents reported expenditure on community-based clubs and schools 
+provided data on school-based club provision, with data summarised 
+descriptively. Qualitative data were collected in 2021 and 2022, with one-to-one 
+interviews with school staff (N = 18) and parents (N = 43), and twelve child 
+focus groups (N = 92), and analysed using the framework method.
+RESULTS: School-based active club participation was higher in 2022 compared to 
+pre-pandemic (50% /43%), while community-based club participation was lower 
+(74%/80%). Children attended 0.3 fewer clubs per week. Those from lower 
+education households were less likely to participate in both types of active 
+clubs, and girls less likely to attend community clubs. In 2022, the median cost 
+of community and school club sessions were £6.67 and £3.88 respectively, with 
+52% of school-based clubs free to parents. Schools offered an average of 3.4 
+active clubs per week for 10-11-year-olds in 2022, with 34% partly/wholly 
+subsidised. Qualitative analysis highlighted the impact of the cost-of-living 
+crisis and COVID-19 pandemic on family resources, encouraging a shift to more 
+affordable and convenient school-based active clubs, which negatively impacted 
+the community-based active club environment. However, many schools struggled to 
+meet this increased demand.
+CONCLUSIONS: Findings emphasise the importance for policymakers to support 
+schools to meet increased demand for clubs and community clubs to increase 
+affordable and convenient physical activity opportunities. Targeted support is 
+needed to prevent socioeconomic and gender inequalities.
+
+© 2023. BioMed Central Ltd., part of Springer Nature.
+
+DOI: 10.1186/s12966-023-01499-x
+PMCID: PMC10552244
+PMID: 37798727 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+42. Respir Res. 2023 Oct 5;24(1):241. doi: 10.1186/s12931-023-02530-2.
+
+Clinical utilization of artificial intelligence-based COVID-19 pneumonia 
+quantification using chest computed tomography - a multicenter retrospective 
+cohort study in Japan.
+
+Tanaka H(#)(1), Maetani T(#)(2), Chubachi S(#)(3), Tanabe N(#)(4), Shiraishi 
+Y(2), Asakura T(1)(5)(6), Namkoong H(7), Shimada T(1), Azekawa S(1), Otake S(1), 
+Nakagawara K(1), Fukushima T(1), Watase M(1), Terai H(1), Sasaki M(8), Ueda 
+S(8), Kato Y(9), Harada N(9), Suzuki S(10), Yoshida S(10), Tateno H(10), Yamada 
+Y(11), Jinzaki M(11), Hirai T(2), Okada Y(12)(13)(14), Koike R(15), Ishii 
+M(1)(16), Hasegawa N(7), Kimura A(17), Imoto S(18), Miyano S(19), Ogawa S(20), 
+Kanai T(21), Fukunaga K(1).
+
+Author information:
+(1)Division of Pulmonary Medicine, Department of Internal Medicine, Keio 
+University School of Medicine, 35 Shinanomachi, Shinjuku-ku, Tokyo, 160-8582, 
+Japan.
+(2)Department of Respiratory Medicine, Graduate School of Medicine, Kyoto 
+University, 54 Kawahara-cho, Shogoin, Sakyo-ku, Kyoto, 606-8507, Japan.
+(3)Division of Pulmonary Medicine, Department of Internal Medicine, Keio 
+University School of Medicine, 35 Shinanomachi, Shinjuku-ku, Tokyo, 160-8582, 
+Japan. bachibachi472000@z6.keio.jp.
+(4)Department of Respiratory Medicine, Graduate School of Medicine, Kyoto 
+University, 54 Kawahara-cho, Shogoin, Sakyo-ku, Kyoto, 606-8507, Japan. 
+ntana@kuhp.kyoto-u.ac.jp.
+(5)Department of Clinical Medicine (Laboratory of Bioregulatory Medicine), 
+Kitasato University School of Pharmacy, Tokyo, Japan.
+(6)Department of Respiratory Medicine, Kitasato University, Kitasato Institute 
+Hospital, Tokyo, Japan.
+(7)Department of Infectious Diseases, Keio University School of Medicine, Tokyo, 
+Japan.
+(8)Department of Respiratory Medicine, JCHO (Japan Community Health care 
+Organization), Saitama Medical Center, Saitama, Japan.
+(9)Department of Respiratory Medicine, Juntendo University Faculty of Medicine 
+and Graduate School of Medicine, Tokyo, Japan.
+(10)Department of Pulmonary Medicine, Saitama City Hospital, Saitama, Japan.
+(11)Department of Radiology, Keio University School of Medicine, Tokyo, Japan.
+(12)Department of Statistical Genetics, Osaka University Graduate School of 
+Medicine, Suita, Japan.
+(13)Department of Genome Informatics, Graduate School of Medicine, the 
+University of Tokyo, Tokyo, Japan.
+(14)Laboratory for Systems Genetics, RIKEN Center for Integrative Medical 
+Sciences, Kanagawa, Japan.
+(15)Health Science Research and Development Center (HeRD), Tokyo Medical and 
+Dental University, Tokyo, Japan.
+(16)Department of Respiratory Medicine, Nagoya University Graduate School of 
+Medicine, Nagoya, Japan.
+(17)Institute of Research, Tokyo Medical and Dental University, Tokyo, Japan.
+(18)Division of Health Medical Intelligence, Human Genome Center, the Institute 
+of Medical Science, the University of Tokyo, Tokyo, Japan.
+(19)M&D Data Science Center, Tokyo Medical and Dental University, Tokyo, Japan.
+(20)Department of Pathology and Tumor Biology, Kyoto University, Kyoto, Japan.
+(21)Division of Gastroenterology and Hepatology, Department of Internal 
+Medicine, Keio University School of Medicine, Tokyo, Japan.
+(#)Contributed equally
+
+BACKGROUND: Computed tomography (CT) imaging and artificial intelligence 
+(AI)-based analyses have aided in the diagnosis and prediction of the severity 
+of COVID-19. However, the potential of AI-based CT quantification of pneumonia 
+in assessing patients with COVID-19 has not yet been fully explored. This study 
+aimed to investigate the potential of AI-based CT quantification of COVID-19 
+pneumonia to predict the critical outcomes and clinical characteristics of 
+patients with residual lung lesions.
+METHODS: This retrospective cohort study included 1,200 hospitalized patients 
+with COVID-19 from four hospitals. The incidence of critical outcomes (requiring 
+the support of high-flow oxygen or invasive mechanical ventilation or death) and 
+complications during hospitalization (bacterial infection, renal failure, heart 
+failure, thromboembolism, and liver dysfunction) was compared between the groups 
+of pneumonia with high/low-percentage lung lesions, based on AI-based CT 
+quantification. Additionally, 198 patients underwent CT scans 3 months after 
+admission to analyze prognostic factors for residual lung lesions.
+RESULTS: The pneumonia group with a high percentage of lung lesions (N = 400) 
+had a higher incidence of critical outcomes and complications during 
+hospitalization than the low percentage group (N = 800). Multivariable analysis 
+demonstrated that AI-based CT quantification of pneumonia was independently 
+associated with critical outcomes (adjusted odds ratio [aOR] 10.5, 95% 
+confidence interval [CI] 5.59-19.7), as well as with oxygen requirement (aOR 
+6.35, 95% CI 4.60-8.76), IMV requirement (aOR 7.73, 95% CI 2.52-23.7), and 
+mortality rate (aOR 6.46, 95% CI 1.87-22.3). Among patients with follow-up CT 
+scans (N = 198), the multivariable analysis revealed that the pneumonia group 
+with a high percentage of lung lesions on admission (aOR 4.74, 95% CI 
+2.36-9.52), older age (aOR 2.53, 95% CI 1.16-5.51), female sex (aOR 2.41, 95% CI 
+1.13-5.11), and medical history of hypertension (aOR 2.22, 95% CI 1.09-4.50) 
+independently predicted persistent residual lung lesions.
+CONCLUSIONS: AI-based CT quantification of pneumonia provides valuable 
+information beyond qualitative evaluation by physicians, enabling the prediction 
+of critical outcomes and residual lung lesions in patients with COVID-19.
+
+© 2023. BioMed Central Ltd., part of Springer Nature.
+
+DOI: 10.1186/s12931-023-02530-2
+PMCID: PMC10552312
+PMID: 37798709 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+43. BMC Neurol. 2023 Oct 5;23(1):358. doi: 10.1186/s12883-023-03385-2.
+
+Gait video-based prediction of unified Parkinson's disease rating scale score: a 
+retrospective study.
+
+Eguchi K(1), Takigawa I(2)(3), Shirai S(4), Takahashi-Iwata I(4), Matsushima 
+M(4), Kano T(4), Yaguchi H(4), Yabe I(4).
+
+Author information:
+(1)Department of Neurology, Faculty of Medicine, Graduate School of Medicine, 
+Hokkaido University, Kita 15, Nishi 7, Kita-ku, Sapporo, 060-8638, Hokkaido, 
+Japan. k198762@gmail.com.
+(2)RIKEN Center for Advanced Intelligence Project, 1-4-1 Nihonbashi, Chuo-ku, 
+Tokyo, 103- 0027, Japan.
+(3)Institute for Chemical Reaction Design and Discovery (WPI-ICReDD), Hokkaido 
+University, Kita 21 Nishi 10, Kita-ku, Sapporo, 001-0021, Hokkaido, Japan.
+(4)Department of Neurology, Faculty of Medicine, Graduate School of Medicine, 
+Hokkaido University, Kita 15, Nishi 7, Kita-ku, Sapporo, 060-8638, Hokkaido, 
+Japan.
+
+BACKGROUND: The diagnosis of Parkinson's disease (PD) and evaluation of its 
+symptoms require in-person clinical examination. Remote evaluation of PD 
+symptoms is desirable, especially during a pandemic such as the coronavirus 
+disease 2019 pandemic. One potential method to remotely evaluate PD motor 
+impairments is video-based analysis. In this study, we aimed to assess the 
+feasibility of predicting the Unified Parkinson's Disease Rating Scale (UPDRS) 
+score from gait videos using a convolutional neural network (CNN) model.
+METHODS: We retrospectively obtained 737 consecutive gait videos of 74 patients 
+with PD and their corresponding neurologist-rated UPDRS scores. We utilized a 
+CNN model for predicting the total UPDRS part III score and four subscores of 
+axial symptoms (items 27, 28, 29, and 30), bradykinesia (items 23, 24, 25, 26, 
+and 31), rigidity (item 22) and tremor (items 20 and 21). We trained the model 
+on 80% of the gait videos and used 10% of the videos as a validation dataset. We 
+evaluated the predictive performance of the trained model by comparing the 
+model-predicted score with the neurologist-rated score for the remaining 10% of 
+videos (test dataset). We calculated the coefficient of determination (R2) 
+between those scores to evaluate the model's goodness of fit.
+RESULTS: In the test dataset, the R2 values between the model-predicted and 
+neurologist-rated values for the total UPDRS part III score and subscores of 
+axial symptoms, bradykinesia, rigidity, and tremor were 0.59, 0.77, 0.56, 0.46, 
+and 0.0, respectively. The performance was relatively low for videos from 
+patients with severe symptoms.
+CONCLUSIONS: Despite the low predictive performance of the model for the total 
+UPDRS part III score, it demonstrated relatively high performance in predicting 
+subscores of axial symptoms. The model approximately predicted the total UPDRS 
+part III scores of patients with moderate symptoms, but the performance was low 
+for patients with severe symptoms owing to limited data. A larger dataset is 
+needed to improve the model's performance in clinical settings.
+
+© 2023. BioMed Central Ltd., part of Springer Nature.
+
+DOI: 10.1186/s12883-023-03385-2
+PMCID: PMC10552271
+PMID: 37798685 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+44. BMC Prim Care. 2023 Oct 5;24(1):206. doi: 10.1186/s12875-023-02152-z.
+
+Introducing extended consultations for patients with severe mental illness in 
+general practice: Results from the SOFIA feasibility study.
+
+Jønsson ABR(#)(1)(2)(3), Martiny FHJ(#)(4)(5), Søndergaard MK(6), Brodersen 
+JB(1)(3)(7), Due TD(1), Nielsen MH(1), Bakkedal C(1), Bardram JE(8), 
+Bissenbakker K(1), Christensen I(9), Doherty K(8), Kjellberg P(9), Mercer 
+SW(10), Reventlow S(1), Rozing MP(#)(1), Møller A(#)(1).
+
+Author information:
+(1)The Section of General Practice and Research Unit for General Practice, 
+Department of Public Health, University of Copenhagen, Copenhagen, Denmark.
+(2)Center for Health and Society, Department of People and Technology, Roskilde 
+University, Roskilde, Denmark.
+(3)Department of Community Medicine, The Arctic University of Norway, Tromsø, 
+Norway.
+(4)The Section of General Practice and Research Unit for General Practice, 
+Department of Public Health, University of Copenhagen, Copenhagen, Denmark. 
+fhm@sund.ku.dk.
+(5)Center for Social Medicine, Bispebjerg and Frederiksberg Hospital, 
+Copenhagen, Denmark. fhm@sund.ku.dk.
+(6)The Research Unit for General Practice, University of Southern Denmark, 
+Odense, Denmark.
+(7)Primary Health Care, Region Zealand, Denmark.
+(8)Department of Health Technology, Technical University of Denmark, Kongens 
+Lyngby, Denmark.
+(9)The Danish Centre for Social Science Research, Copenhagen, Denmark.
+(10)Usher Institute, College of Medicine and Veterinary Medicine, University of 
+Edinburgh, Edinburgh, Denmark.
+(#)Contributed equally
+
+BACKGROUND: People with a severe mental illness (SMI) have shorter life 
+expectancy and poorer quality of life compared to the general population. Most 
+years lost are due to cardiovascular disease, respiratory disease, and various 
+types of cancer. We co-designed an intervention to mitigate this health problem 
+with key stakeholders in the area, which centred on an extended consultations 
+for people with SMI in general practice. This study aimed to1) investigate 
+general practitioners' (GPs) experience of the feasibility of introducing 
+extended consultations for patients with SMI, 2) assess the clinical content of 
+extended consultations and how these were experienced by patients, and 3) 
+investigate the feasibility of identification, eligibility screening, and 
+recruitment of patients with SMI.
+METHODS: The study was a one-armed feasibility study. We planned that seven 
+general practices in northern Denmark would introduce extended consultations 
+with their patients with SMI for 6 months. Patients with SMI were identified 
+using practice medical records and screened for eligibility by the patients' GP. 
+Data were collected using case report forms filled out by practice personnel and 
+via qualitative methods, including observations of consultations, individual 
+semi-structured interviews, a focus group with GPs, and informal conversations 
+with patients and general practice staff.
+RESULTS: Five general practices employing seven GPs participated in the study, 
+which was terminated 3 ½ month ahead of schedule due to the COVID-19 pandemic. 
+General practices attempted to contact 57 patients with SMI. Of these, 38 
+patients (67%) attended an extended consultation, which led to changes in the 
+somatic health care plan for 82% of patients. Conduct of the extended 
+consultations varied between GPs and diverged from the intended conduct. 
+Nonetheless, GPs found the extended consultations feasible and, in most cases, 
+beneficial for the patient group. In interviews, most patients recounted the 
+extended consultation as beneficial.
+DISCUSSION: Our findings suggest that it is feasible to introduce extended 
+consultations for patients with SMI in general practice, which were also found 
+to be well-suited for eliciting patients' values and preferences. Larger studies 
+with a longer follow-up period could help to assess the long-term effects and 
+the best implementation strategies of these consultations.
+
+© 2023. BioMed Central Ltd., part of Springer Nature.
+
+DOI: 10.1186/s12875-023-02152-z
+PMCID: PMC10552249
+PMID: 37798651 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+45. Nat Commun. 2023 Oct 5;14(1):6206. doi: 10.1038/s41467-023-41941-z.
+
+Viral kinetics of sequential SARS-CoV-2 infections.
+
+Kissler SM(1), Hay JA(2), Fauver JR(3), Mack C(4), Tai CG(4), Anderson DJ(5), Ho 
+DD(6), Grubaugh ND(7), Grad YH(8).
+
+Author information:
+(1)Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of 
+Public Health, Boston, MA, USA.
+(2)Big Data Institute, Li Ka Shing Centre for Health Information and Discovery, 
+University of Oxford, Oxford, UK.
+(3)Department of Epidemiology, University of Nebraska Medical Center, Omaha, NE, 
+USA.
+(4)IQVIA, Durham, NC, USA.
+(5)Duke Center for Antimicrobial Stewardship and Infection Prevention, Durham, 
+NC, USA.
+(6)Vagelos College of Physicians and Surgeons, Columbia University, New York, 
+NY, USA.
+(7)Department of Epidemiology of Microbial Diseases, Yale School of Public 
+Health, New Haven, CT, USA.
+(8)Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of 
+Public Health, Boston, MA, USA. ygrad@hsph.harvard.edu.
+
+The impact of a prior SARS-CoV-2 infection on the progression of subsequent 
+infections has been unclear. Using a convenience sample of 94,812 longitudinal 
+RT-qPCR measurements from anterior nares and oropharyngeal swabs, we identified 
+71 individuals with two well-sampled SARS-CoV-2 infections between March 11th, 
+2020, and July 28th, 2022. We compared the SARS-CoV-2 viral kinetics of first 
+vs. second infections in this group, adjusting for viral variant, vaccination 
+status, and age. Relative to first infections, second infections usually 
+featured a faster clearance time. Furthermore, a person's relative (rank-order) 
+viral clearance time, compared to others infected with the same variant, was 
+roughly conserved across first and second infections, so that individuals who 
+had a relatively fast clearance time in their first infection also tended to 
+have a relatively fast clearance time in their second infection (Spearman 
+correlation coefficient: 0.30, 95% credible interval (0.12, 0.46)). These 
+findings provide evidence that, like vaccination, immunity from a prior 
+SARS-CoV-2 infection shortens the duration of subsequent acute SARS-CoV-2 
+infections principally by reducing viral clearance time. Additionally, there 
+appears to be an inherent element of the immune response, or some other host 
+factor, that shapes a person's relative ability to clear SARS-CoV-2 infection 
+that persists across sequential infections.
+
+© 2023. Springer Nature Limited.
+
+DOI: 10.1038/s41467-023-41941-z
+PMCID: PMC10556125
+PMID: 37798265 [Indexed for MEDLINE]
+
+Conflict of interest statement: S.M.K. has a consulting agreement with the NBA 
+and Moderna Therapeutics. J.A.H. declares no competing interests. J.R.F. has a 
+consulting agreement for Tempus and receives financial support from Tempus to 
+develop SARS-CoV-2 diagnostic tests. C.M. is an employee of IQVIA, Real World 
+Solutions. C.G.T. is an employee of IQVIA, Real World Solutions. D.J.A. is 
+co-owner of Infection Control Education for Major Sports. D.D.H. declares no 
+competing interests. N.D.G. has a consulting agreement for Tempus and receives 
+financial support from Tempus to develop SARS-CoV-2 diagnostic tests. Y.H.G. has 
+a consulting agreement with the NBA.
+
+
+46. BMJ Open Ophthalmol. 2023 Oct;8(Suppl 3):A7-A8. doi: 
+10.1136/bmjophth-2023-BIPOSA.21.
+
+21 Does the number of pre-operative assessments of strabismus patients influence 
+the surgical outcome?
+
+McAuley S(1), Choi J(1), Zaman-Khan I(1).
+
+Author information:
+(1)Sheffield Teaching Hospitals NHS Foundation Trust, UK.
+
+Surgical strabismus traditionally attended for several face-to-face (FTF) 
+measurements before being listed for surgery. During the Covid-19 pandemic, a 
+streamlined care-pathway was adapted to reduce FTF contact time to protect staff 
+and manage floor-flow. Patients were listed for surgery after just one 
+face-to-face orthoptic assessment, followed by a further measurement at 
+pre-assessment.This is a case cohort to look at surgical outcome of all 
+consecutive exotropia patients who underwent re-do horizontal muscle surgery 
+over the last 14 years, from a surgeon's prospective database.65 patients had 
+surgery before the pandemic (Group-A) and 28 since the pandemic (Group-B). The 
+mean age was 34.9 and 39.1 years respectively. The mean pre-operative near-angle 
+was 37.5 prism dioptres (PD) and distance-angle of 34.8PD for group-A. Group B 
+was 39.3PD for near and 36.3PD for distance. 89.1% in group-A and 89.2% in 
+group-B had suppression. Postoperative alignment within 15PD was achieved, after 
+a combination of fixed and adjustable procedures, for 75.4% in group-A and 88.5% 
+in group-B with predominant adjustable procedure. The mean 2-weeks 
+post-operative alignment was -1PD for group-A and -1.3PD for group-B. Group-A 
+had an average of 3.6 measurements, with 3.3 doctor consultant prior to surgery 
+and group-B had 2 FTF orthoptics and 1 FTF doctor contact.44.4% reduction in 
+face-to-face orthoptics contact-time and 69.7% less consultant contact-time had 
+not negatively affected the patient surgical outcome.Strabismus surgery can be 
+considered in selected cases with less FTF pre-operatively and improve 
+cost-efficiency of our adult strabismus service with 'block-contract' status.
+
+© Author(s) (or their employer(s)) 2023. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjophth-2023-BIPOSA.21
+PMID: 37798007 [Indexed for MEDLINE]
+
+
+47. BMJ Open Ophthalmol. 2023 Oct;8(Suppl 3):A9. doi: 
+10.1136/bmjophth-2023-BIPOSA.26.
+
+26 Virtual strabismus clinic: an alternative model of care during the COVID-19 
+pandemic.
+
+Panahi M(1), Mullinger D(1), Mistry J(1), Somner J(1), Vivian A(1).
+
+Author information:
+(1)Cambridge University Hospitals NHS Foundation Trust, UK.
+
+Addenbrooke's Hospital introduced a virtual strabismus clinic in March 2021 to 
+manage patient care during the COVID-19 pandemic. This study aims to explore the 
+feasibility and utility of this care model by evaluating its effectiveness in 
+delivering patient care.Clinic data from April 2021 to April 2022 were 
+retrospectively analysed, including patient demographics, referral information 
+and outcomes. All patients underwent an initial assessment by a specialist 
+orthoptist, preceding virtual review by a consultant ophthalmologist.The clinic 
+saw 114 patients between the ages of 12 and 95 during this period, with an 
+increasing number of patients seen per month. Within two months of the clinic's 
+inception, wait times reduced by 59%: from 30.2 weeks to 12.5 weeks, remaining 
+constant thereafter. Most referrals came from optometrists, with diplopia and 
+identification of new or recurring strabismus being the most common complaint. 
+Virtual review outcome varied significantly: 30.7% of patients were discharged, 
+16.7% listed for surgery, 34.2% received a repeat FTF review and a further 18.4% 
+received a review virtually.Following its inception, the virtual clinic was able 
+to effectively accommodate patients despite capacity restraints. This was partly 
+achieved through the effective utilisation of specialised orthoptists. 
+Subsequent virtual review by a consultant ophthalmologist achieved positive 
+patient outcomes.Virtual clinics provide an opportunity to optimise patient care 
+and maximise efficiency of clinical input. If applied appropriately, this model 
+of patient care may reduce the NHS burden, improving wait times to facilitate 
+faster intervention. Increasing consultant availability permits the treatment of 
+a greater number of patients.
+
+© Author(s) (or their employer(s)) 2023. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjophth-2023-BIPOSA.26
+PMID: 37797996 [Indexed for MEDLINE]
+
+
+48. N Z Med J. 2023 Oct 6;136(1583):67-91.
+
+Continued mitigation needed to minimise the high health burden from COVID-19 in 
+Aotearoa New Zealand.
+
+Baker MG(1), Kvalsvig A(2), Plank MJ(3), Geoghegan JL(4), Wall T(5), Tukuitonga 
+C(6), Summers J(2), Bennett J(2), Kerr J(7), Turner N(8), Roberts S(9), Ward 
+K(10), Betty B(11), Huang QS(12), French N(13), Wilson N(1).
+
+Author information:
+(1)Epidemiologist and Public Health Physician, University of Otago Wellington.
+(2)Epidemiologist, University of Otago Wellington.
+(3)Mathematical Modeler, School of Mathematics and Statistics, University of 
+Canterbury, Co-lead Covid-19 Modelling Aotearoa.
+(4)Molecular biologist, Department of Microbiology and Immunology, University of 
+Otago Dunedin.
+(5)Consultant on strengthening Māori health and equity, Wellington.
+(6)Public Health Physician, Pacific Health Researcher, The University of 
+Auckland.
+(7)Senior Research Fellow, University of Otago Wellington.
+(8)General Practitioner and Medical Director of the Immunisation Advisory 
+Centre, The University of Auckland.
+(9)Clinical Microbiologist, Clinical Head of Microbiology and Infection 
+Prevention and Control, Auckland Hospital, Te Whatu Ora - Health New Zealand, Te 
+Toka Tumai Auckland.
+(10)Urgent Care Physician, Wellington.
+(11)General Practitioner and Chair, General Practice New Zealand, Wellington.
+(12)Virologist, Director of WHO National Influenza Centre, Institute of 
+Environmental Science and Research, Wellington.
+(13)Epidemiologist, Massey University of New Zealand, Palmerston North.
+
+In this article we review the COVID-19 pandemic experience in Aotearoa New 
+Zealand and consider the optimal ongoing response strategy. We note that this 
+pandemic virus looks likely to result in future waves of infection that diminish 
+in size over time, depending on such factors as viral evolution and population 
+immunity. However, the burden of disease remains high with thousands of 
+infections, hundreds of hospitalisations and tens of deaths each week, and an 
+unknown burden of long-term illness (long COVID). Alongside this there is a 
+considerable burden from other important respiratory illnesses, including 
+influenza and RSV, that needs more attention. Given this impact and the 
+associated health inequities, particularly for Māori and Pacific Peoples, we 
+consider that an ongoing respiratory disease mitigation strategy is appropriate 
+for New Zealand. As such, the previously described "vaccines plus" approach 
+(involving vaccination and public health and social measures), should now be 
+integrated with the surveillance and control of other important respiratory 
+infections. Now is also a time for New Zealand to build on the lessons from the 
+COVID-19 pandemic to enhance preparedness nationally and internationally. New 
+Zealand's experience suggests elimination (or ideally exclusion) should be the 
+default first choice for future pandemics of sufficient severity.
+
+© PMA.
+
+PMID: 37797257 [Indexed for MEDLINE]
+
+Conflict of interest statement: Nil.
+
+
+49. Proc Natl Acad Sci U S A. 2023 Oct 10;120(41):e2220403120. doi: 
+10.1073/pnas.2220403120. Epub 2023 Oct 5.
+
+A next-generation intranasal trivalent MMS vaccine induces durable and broad 
+protection against SARS-CoV-2 variants of concern.
+
+Xu J(#)(1), Zhang Y(#)(1), Qu P(#)(1), Shamseldin MM(#)(2)(3), Yoo SJ(#)(1), 
+Misny J(#)(4), Thongpan I(4), Kc M(4), Hall JM(2), Evans JP(1), Eltobgy M(2), Lu 
+M(1), Ye C(5), Chamblee M(1), Liang X(1), Martinez-Sobrido L(5), Amer AO(2)(6), 
+Yount JS(2)(6), Boyaka PN(1)(6), Peeples ME(4)(6)(7), Liu SL(1)(2)(6)(8), Dubey 
+P(2)(6), Li J(1)(6).
+
+Author information:
+(1)Department of Veterinary Biosciences, The Ohio State University, Columbus, OH 
+43210.
+(2)Department of Microbial Infection and Immunity, College of Medicine, The Ohio 
+State University, Columbus, OH 43210.
+(3)Department of Microbiology and Immunology, Faculty of Pharmacy, Helwan 
+University, Helwan 11795, Egypt.
+(4)Center for Vaccines and Immunity, Abigail Wexner Research Institute at 
+Nationwide Children's Hospital, Columbus, OH 43205.
+(5)Department of Disease Intervention and Prevention, Texas Biomedical Research 
+Institute, San Antonio, TX 78227.
+(6)Infectious Disease Institute, The Ohio State University, Columbus, OH 43210.
+(7)Department of Pediatrics, College of Medicine, The Ohio State University, 
+Columbus, OH 43210.
+(8)Center for Retrovirus Research, The Ohio State University, Columbus, OH 
+43210.
+(#)Contributed equally
+
+As SARS-CoV-2 variants of concern (VoCs) that evade immunity continue to emerge, 
+next-generation adaptable COVID-19 vaccines which protect the respiratory tract 
+and provide broader, more effective, and durable protection are urgently needed. 
+Here, we have developed one such approach, a highly efficacious, intranasally 
+delivered, trivalent measles-mumps-SARS-CoV-2 spike (S) protein (MMS) vaccine 
+candidate that induces robust systemic and mucosal immunity with broad 
+protection. This vaccine candidate is based on three components of the MMR 
+vaccine, a measles virus Edmonston and the two mumps virus strains [Jeryl Lynn 1 
+(JL1) and JL2] that are known to provide safe, effective, and long-lasting 
+protective immunity. The six proline-stabilized prefusion S protein (preS-6P) 
+genes for ancestral SARS-CoV-2 WA1 and two important SARS-CoV-2 VoCs (Delta and 
+Omicron BA.1) were each inserted into one of these three viruses which were then 
+combined into a trivalent "MMS" candidate vaccine. Intranasal immunization of 
+MMS in IFNAR1-/- mice induced a strong SARS-CoV-2-specific serum IgG response, 
+cross-variant neutralizing antibodies, mucosal IgA, and systemic and 
+tissue-resident T cells. Immunization of golden Syrian hamsters with MMS vaccine 
+induced similarly high levels of antibodies that efficiently neutralized 
+SARS-CoV-2 VoCs and provided broad and complete protection against challenge 
+with any of these VoCs. This MMS vaccine is an efficacious, broadly protective 
+next-generation COVID-19 vaccine candidate, which is readily adaptable to new 
+variants, built on a platform with a 50-y safety record that also protects 
+against measles and mumps.
+
+DOI: 10.1073/pnas.2220403120
+PMID: 37796985 [Indexed for MEDLINE]
+
+
+50. PLoS One. 2023 Oct 5;18(10):e0289541. doi: 10.1371/journal.pone.0289541. 
+eCollection 2023.
+
+Longitudinal assessment of COVID-19 vaccine uptake: A two-wave survey of a 
+nationally representative U.S. sample.
+
+Katzman C(1)(2), Morgan T(3), de Roche A(1), Harris J(1)(2), Mauro C(3), Zimet 
+G(4), Rosenthal S(1)(5).
+
+Author information:
+(1)Department of Pediatrics, Vagelos College of Physicians and Surgeons, 
+Columbia University Irving Medical Center, New York, NY, United States of 
+America.
+(2)NewYork-Presbyterian Hospital, New York, NY, United States of America.
+(3)Department of Biostatistics at the Mailman School of Public Health at 
+Columbia University Irving Medical Center, New York, NY, United States of 
+America.
+(4)Division of Adolescent Medicine, Indiana University School of Medicine, 
+Indianapolis, IN, United States of America.
+(5)Department of Psychiatry at Vagelos College of Physicians and Surgeons at 
+Columbia University Irving Medical Center, New York, NY, United States of 
+America.
+
+Understanding factors that influence those who are initially COVID-19 vaccine 
+hesitant to accept vaccination is valuable for the development of vaccine 
+promotion strategies. Using Ipsos KnowledgePanel®, we conducted a national 
+survey of adults aged 18 and older in the United States. We created a 
+questionnaire to examine factors associated with COVID-19 vaccine uptake over a 
+longitudinal period ("Wave 1" in April 2021 and "Wave 2" in February 2022), and 
+utilized weighted data provided by Ipsos to make the data nationally 
+representative. Overall, 1189 individuals participated in the Wave 1 survey, and 
+843 participants completed the Wave 2 survey (71.6% retention rate). Those who 
+intended to be vaccinated as soon as possible ("ASAP") were overwhelmingly 
+vaccinated by Wave 2 (96%, 95% CI: 92% to 100%). Of those who initially wished 
+to delay vaccination until there was more experience with it ("Wait and See"), 
+57% (95% CI: 47% to 67%) were vaccinated at Wave 2. Within the "Wait and See" 
+cohort, those with income <$50,000 and those who had never received the 
+influenza vaccine were significantly less likely to be vaccinated at Wave 2. 
+Among those who initially indicated that they would not receive a COVID-19 
+vaccine ("Non-Acceptors"), 28% (95% CI: 21% to 36%) were vaccinated at Wave 2. 
+Those who believed COVID-19 was not a major problem in their community were 
+significantly less likely to be vaccinated, while those with more favorable 
+attitudes toward vaccines in general and public health strategies to decrease 
+the impact of COVID-19 were significantly more likely to be vaccinated. Overall, 
+barriers to vaccine uptake for the "Wait and See" cohort appear to be more 
+practical, whereas barriers for the "Non-Acceptor" cohort seem to be more 
+ideological. These findings will help target interventions to improve uptake of 
+COVID-19 boosters and future novel vaccines.
+
+Copyright: © 2023 Katzman et al. This is an open access article distributed 
+under the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0289541
+PMCID: PMC10553259
+PMID: 37796981 [Indexed for MEDLINE]
+
+Conflict of interest statement: Caroline Katzman, Julen Harris, Christine Mauro, 
+Ariel de Roche, and Tucker Morgan have no conflicts of interest to declare. 
+Gregory Zimet serves as an external advisory board member for Pfizer and 
+Moderna, and as a consultant to Merck. He also has received 
+investigator-initiated research funding from Merck administered through Indiana 
+University and serves as an unpaid member of the Board of Directors for the 
+Unity Consortium, a non-profit organization that promotes adolescent health 
+through vaccination. Susan Rosenthal has received investigator-initiated 
+research funding from Merck Investigator Studies Program administered through 
+Columbia University Irving Medical Center. This does not alter our adherence to 
+PLOS ONE policies on sharing data and materials.
