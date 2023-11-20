@@ -126,6 +126,6 @@ data <- read.csv("Up-HPO.csv",header = TRUE)
 head(data)
 ggplot(data = data,aes(x =Description ,y = Count,fill = -log10(p_Value))) + geom_bar(stat="identity") + 
   scale_x_discrete(limits=data$Description) + coord_flip() + labs(title = "EnrichmentHPO") + 
-  theme(plot.title = element_text(size = 20,face = "bold"),axis.text = element_text(size = 12,face = "bold"),
+  theme(plot.title = element_text(size = 10,face = "bold"),axis.text = element_text(size = 6,face = "bold"),
         axis.title.x =element_text(size=14), axis.title.y=element_text(size=16),panel.background 
         = element_rect(fill="white", colour='gray')) + scale_fill_gradient(low = 'blue', high = 'red')
